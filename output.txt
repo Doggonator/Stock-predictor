@@ -454,7 +454,6 @@ FI: Buy
 JCI: Buy
 PFS: Buy
 PSA: Buy
-FISV: Buy
 MBWM: Buy
 NTAP: Buy
 QNST: Buy
@@ -1257,6 +1256,7 @@ CUBE: Buy
 HCA: Buy
 APWC: Buy
 STRS: Buy
+AIB: Buy
 CLB: Buy
 UA: Buy
 BUSE: Buy
@@ -1871,7 +1871,6 @@ NVEC: Sell
 RDCM: Sell
 URBN: Sell
 VRTS: Sell
-AIB: Sell
 BIT: Sell
 BMO: Sell
 EVF: Sell
@@ -2119,7 +2118,6 @@ CCU: Strong sell
 GROW: Strong sell
 MEOH: Strong sell
 RRC: Strong sell
-LBAI: Strong sell
 DKL: Strong sell
 HST: Strong sell
 JHX: Strong sell
@@ -2128,6 +2126,7 @@ RRTS: Strong sell
 CUBA: Strong sell
 FSTR: Strong sell
 IPAR: Strong sell
+LBAI: Strong sell
 HES: Strong sell
 LUX: Strong sell
 DHT: Strong sell
@@ -2541,7 +2540,6 @@ RDIB: Strong sell
 CAMP: Strong sell
 AVD: Strong sell
 SYT: Strong sell
-NSTG: Strong sell
 ACET: Strong sell
 SRI: Strong sell
 CYCCP: Strong sell
@@ -2654,6 +2652,7 @@ NCI: Strong sell
 BLMN: Strong sell
 PTIX: Strong sell
 PNBK: Strong sell
+NSTG: Strong sell
 CVGI: Strong sell
 MFI: Strong sell
 GENE: Strong sell

@@ -1,4 +1,4 @@
-These suggestions were updated: 01-19-2025
+These suggestions were updated: 01-21-2025
 INSM: Strong Buy
 HWKN: Strong Buy
 KINS: Strong Buy
@@ -731,6 +731,7 @@ UIS: Strong Buy
 ALX: Strong Buy
 CNTY: Strong Buy
 HZO: Strong Buy
+GSOL: Strong Buy
 ICFI: Strong Buy
 YORW: Strong Buy
 SWK: Strong Buy
@@ -740,6 +741,7 @@ JVA: Buy
 PSIX: Buy
 CDE: Buy
 SEAC: Buy
+UNAM: Buy
 MNKD: Buy
 ALNY: Buy
 USAP: Buy
@@ -1455,7 +1457,6 @@ BIOF: Buy
 GTIM: Buy
 MYGN: Buy
 WDFC: Buy
-GSOL: Buy
 TRNS: Buy
 AZN: Buy
 FUN: Buy
@@ -1486,13 +1487,13 @@ FWRD: Buy
 NSSC: Buy
 ARTNA: Buy
 FIZZ: Buy
-UNAM: Hold
 RBCN: Hold
 SRDX: Hold
 UBOH: Hold
 FCAP: Hold
 BKE: Hold
 PSMT: Hold
+KSM: Hold
 MCBK: Hold
 SOR: Hold
 TSI: Hold
@@ -1720,6 +1721,7 @@ NVO: Hold
 AWRE: Hold
 SJW: Hold
 CSTE: Hold
+HAUP: Hold
 AMBI: Hold
 PAMT: Hold
 SPTN: Hold
@@ -1816,7 +1818,6 @@ LBTYB: Sell
 SRPT: Sell
 DWSN: Sell
 EFUT: Sell
-HAUP: Sell
 MTEX: Sell
 FORM: Sell
 LAND: Sell
@@ -1859,7 +1860,9 @@ ULTR: Sell
 GFI: Sell
 LXU: Sell
 PZC: Sell
+HCIIP: Sell
 NTCT: Sell
+QKLS: Sell
 WERN: Sell
 WVFC: Sell
 GDO: Sell
@@ -1889,6 +1892,7 @@ RDCM: Sell
 EVF: Sell
 SXC: Sell
 ANGO: Sell
+CCUR: Sell
 CITZ: Sell
 JAZZ: Sell
 JBLU: Sell
@@ -2011,7 +2015,6 @@ ESCA: Strong sell
 BLDR: Strong sell
 HIHO: Strong sell
 PDFS: Strong sell
-BHP: Strong sell
 FF: Strong sell
 NEU: Strong sell
 ROG: Strong sell
@@ -2178,15 +2181,12 @@ ISP: Strong sell
 AMCF: Strong sell
 BGMD: Strong sell
 CACH: Strong sell
-HCIIP: Strong sell
 QIWI: Strong sell
-QKLS: Strong sell
 RITT: Strong sell
 SVA: Strong sell
 UTSI: Strong sell
 ZAZA: Strong sell
 MAYS: Strong sell
-CCUR: Strong sell
 RATE: Strong sell
 DIS: Strong sell
 TD: Strong sell
@@ -2309,6 +2309,7 @@ NBR: Strong sell
 ORMP: Strong sell
 TAIT: Strong sell
 CLDT: Strong sell
+GGT: Strong sell
 IGT: Strong sell
 TEN: Strong sell
 POWI: Strong sell
@@ -2605,6 +2606,7 @@ OCC: Strong sell
 ARKR: Strong sell
 MGAM: Strong sell
 CPWR: Strong sell
+CHEV: Strong sell
 SUNE: Strong sell
 HHS: Strong sell
 ORBT: Strong sell
@@ -2629,7 +2631,6 @@ TORM: Strong sell
 LULU: Strong sell
 DSX: Strong sell
 CYTK: Strong sell
-TWER: Strong sell
 ATAI: Strong sell
 QCCO: Strong sell
 DDD: Strong sell
@@ -2637,8 +2638,9 @@ QBAK: Strong sell
 TV: Strong sell
 LION: Strong sell
 LPSN: Strong sell
-RMCF: Strong sell
+TWER: Strong sell
 SMIT: Strong sell
+RMCF: Strong sell
 BMR: Strong sell
 SQQQ: Strong sell
 CJJD: Strong sell
@@ -2664,7 +2666,6 @@ BLRX: Strong sell
 NVDQ: Strong sell
 KGJI: Strong sell
 TNXP: Strong sell
-CHEV: Strong sell
 HALL: Strong sell
 WHLR: Strong sell
 SOFO: Strong sell

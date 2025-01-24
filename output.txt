@@ -1,4 +1,5 @@
-These suggestions were updated: 01-23-2025
+These suggestions were updated: 01-24-2025
+MEMS: Buy
 INSM: Strong Buy
 HWKN: Strong Buy
 STRT: Strong Buy
@@ -77,6 +78,7 @@ ACT: Strong Buy
 BRC: Strong Buy
 MCO: Strong Buy
 UNM: Strong Buy
+CBSH: Strong Buy
 Z: Strong Buy
 APD: Strong Buy
 CMI: Strong Buy
@@ -124,11 +126,9 @@ CHKP: Strong Buy
 PPBI: Strong Buy
 SPBC: Strong Buy
 GWW: Strong Buy
-KEM: Strong Buy
 LYG: Strong Buy
 XPO: Strong Buy
 EEMA: Strong Buy
-EML: Strong Buy
 ONEQ: Strong Buy
 CLS: Strong Buy
 EOI: Strong Buy
@@ -136,8 +136,6 @@ GNT: Strong Buy
 JPM: Strong Buy
 KAI: Strong Buy
 SXT: Strong Buy
-ZF: Strong Buy
-DSWL: Strong Buy
 SKYY: Strong Buy
 TDIV: Strong Buy
 DOV: Strong Buy
@@ -159,6 +157,7 @@ FGB: Strong Buy
 RJF: Strong Buy
 TY: Strong Buy
 BPOP: Strong Buy
+ENTR: Strong Buy
 ARP: Strong Buy
 HF: Strong Buy
 PHX: Strong Buy
@@ -167,6 +166,7 @@ ACWI: Strong Buy
 AIQ: Strong Buy
 DECK: Strong Buy
 GRID: Strong Buy
+KONG: Strong Buy
 KOOL: Strong Buy
 MRCC: Strong Buy
 FFA: Strong Buy
@@ -185,20 +185,19 @@ TSCO: Strong Buy
 UHAL: Strong Buy
 AOD: Strong Buy
 BOE: Strong Buy
+GGM: Strong Buy
 ING: Strong Buy
 PMX: Strong Buy
 TDG: Strong Buy
 ASIA: Strong Buy
-CSQ: Strong Buy
+FLOW: Strong Buy
 PSTR: Strong Buy
 ADT: Strong Buy
 BR: Strong Buy
 ETB: Strong Buy
-GGM: Strong Buy
 IHG: Strong Buy
 MAS: Strong Buy
 MFM: Strong Buy
-FLOW: Strong Buy
 MRVL: Strong Buy
 CAT: Strong Buy
 COO: Strong Buy
@@ -220,6 +219,7 @@ PHM: Strong Buy
 DHI: Strong Buy
 RIGL: Strong Buy
 DELL: Strong Buy
+LEN: Strong Buy
 QUAD: Strong Buy
 UA: Strong Buy
 GTIM: Strong Buy
@@ -232,7 +232,6 @@ GCI: Buy
 PRKR: Buy
 TPC: Buy
 KINS: Buy
-SEAC: Buy
 CNK: Buy
 INOD: Buy
 PSIX: Buy
@@ -712,6 +711,7 @@ JWN: Buy
 KRC: Buy
 LYV: Buy
 RPM: Buy
+RQI: Buy
 SHW: Buy
 URI: Buy
 CAKE: Buy
@@ -739,6 +739,7 @@ ARLP: Buy
 BRKL: Buy
 CWST: Buy
 FFIV: Buy
+HWBK: Buy
 LAMR: Buy
 LSBK: Buy
 NFLX: Buy
@@ -792,6 +793,7 @@ ENB: Buy
 FOF: Buy
 FT: Buy
 JPC: Buy
+KEM: Buy
 KO: Buy
 KR: Buy
 LOW: Buy
@@ -825,8 +827,10 @@ RH: Buy
 SNA: Buy
 TSN: Buy
 UHT: Buy
+ZF: Buy
 ZTR: Buy
 CEVA: Buy
+DSWL: Buy
 HLIT: Buy
 LQDT: Buy
 PAYX: Buy
@@ -866,7 +870,6 @@ AMH: Buy
 CIG: Buy
 DFP: Buy
 FRA: Buy
-GJH: Buy
 IR: Buy
 NVS: Buy
 NWE: Buy
@@ -875,7 +878,7 @@ PFO: Buy
 RSG: Buy
 AMSF: Buy
 CDXS: Buy
-ENTR: Buy
+CSQ: Buy
 KEQU: Buy
 LCNB: Buy
 PSCI: Buy
@@ -903,6 +906,7 @@ SWX: Buy
 TDF: Buy
 CPSS: Buy
 DGRS: Buy
+EML: Buy
 EZPW: Buy
 FFNW: Buy
 FORTY: Buy
@@ -935,11 +939,9 @@ RDY: Buy
 TSI: Buy
 ADI: Buy
 BANC: Buy
-CIZN: Buy
 GOODO: Buy
 IGLD: Buy
 IMCB: Buy
-KONG: Buy
 LOAN: Buy
 MASI: Buy
 QLTY: Buy
@@ -992,7 +994,6 @@ IQI: Buy
 MRO: Buy
 MTX: Buy
 NAC: Buy
-NR: Buy
 PAC: Buy
 PGZ: Buy
 SRV: Buy
@@ -1012,6 +1013,7 @@ LDP: Buy
 MA: Buy
 MUE: Buy
 NAZ: Buy
+NR: Buy
 NRP: Buy
 PG: Buy
 PGP: Buy
@@ -1030,7 +1032,6 @@ CEE: Buy
 CPAC: Buy
 EFC: Buy
 EOD: Buy
-JBT: Buy
 JFR: Buy
 LEO: Buy
 LGI: Buy
@@ -1073,6 +1074,7 @@ TDI: Buy
 ACWX: Buy
 DXJS: Buy
 GOODN: Buy
+LARK: Buy
 PSCD: Buy
 SBUX: Buy
 VXUS: Buy
@@ -1090,6 +1092,7 @@ BLW: Buy
 CRM: Buy
 NFJ: Buy
 NXP: Buy
+TVE: Buy
 USA: Buy
 AWAY: Buy
 RVSB: Buy
@@ -1116,9 +1119,11 @@ CLNE: Buy
 BTT: Buy
 HYI: Buy
 JOF: Buy
+NXN: Buy
 PTY: Buy
 STK: Buy
 GSIG: Buy
+JADE: Buy
 AB: Buy
 BSAC: Buy
 ROP: Buy
@@ -1157,7 +1162,6 @@ GERN: Buy
 CNX: Buy
 GEVO: Buy
 REFR: Buy
-CYAN: Buy
 NVAX: Buy
 PDEX: Buy
 WLDN: Buy
@@ -1165,13 +1169,13 @@ SGRP: Buy
 EBS: Buy
 RDNT: Buy
 MNKD: Buy
+CYAN: Buy
 ZUMZ: Buy
 EIX: Buy
 APOG: Buy
 NMM: Buy
 ITIC: Buy
 AMRC: Buy
-PFMT: Buy
 BRFS: Buy
 SVM: Buy
 PDM: Buy
@@ -1181,8 +1185,8 @@ GME: Buy
 MSTR: Buy
 UFPT: Buy
 MDRX: Buy
-AOSL: Buy
 NKTR: Buy
+AOSL: Buy
 VIRC: Buy
 ICON: Buy
 PESI: Buy
@@ -1220,21 +1224,21 @@ TTEK: Buy
 FSM: Buy
 KBH: Buy
 KW: Buy
+LEE: Buy
 HAS: Buy
 PCYO: Buy
 PKOH: Buy
 XTLB: Buy
 AA: Buy
 CMRE: Buy
-LEE: Buy
 XIN: Buy
 PSA: Buy
 ACNB: Buy
+ENZN: Buy
 INBK: Buy
 JJSF: Buy
 ORA: Buy
 ASYS: Buy
-ENZN: Buy
 FLIC: Buy
 KTCC: Buy
 NU: Buy
@@ -1247,11 +1251,11 @@ RWT: Buy
 BCO: Buy
 SHG: Buy
 IMMR: Buy
+ACUR: Buy
 ERII: Buy
 STRS: Buy
 CUBE: Buy
 SMG: Buy
-DXYN: Buy
 SHIP: Buy
 VNDA: Buy
 AIB: Buy
@@ -1261,10 +1265,10 @@ APWC: Buy
 FOSL: Buy
 MTH: Buy
 GRFS: Buy
-NEWP: Buy
 IGR: Buy
+DXYN: Buy
 KWEB: Buy
-ROYL: Buy
+NEWP: Buy
 BEP: Buy
 CWT: Buy
 KNOP: Buy
@@ -1308,11 +1312,13 @@ GIS: Buy
 CARV: Buy
 MPWR: Buy
 AI: Buy
+CLWT: Buy
 S: Buy
 NEOG: Buy
 UEIC: Buy
 HAIN: Buy
 JVA: Hold
+SEAC: Hold
 CDE: Hold
 DJCO: Hold
 SFM: Hold
@@ -1344,7 +1350,7 @@ BNS: Hold
 MCBK: Hold
 BYFC: Hold
 CRESY: Hold
-KSM: Hold
+GJH: Hold
 PFBX: Hold
 STKL: Hold
 SUPN: Hold
@@ -1363,7 +1369,6 @@ DMO: Hold
 EOT: Hold
 EXC: Hold
 FMN: Hold
-GB: Hold
 GBX: Hold
 HEQ: Hold
 HQH: Hold
@@ -1394,9 +1399,11 @@ DLX: Hold
 ETW: Hold
 EVN: Hold
 FNV: Hold
+GB: Hold
 GCV: Hold
 GD: Hold
 H: Hold
+JBT: Hold
 MAR: Hold
 MCI: Hold
 MHD: Hold
@@ -1408,6 +1415,7 @@ PL: Hold
 PSF: Hold
 SCS: Hold
 AGNCP: Hold
+CIZN: Hold
 GLDI: Hold
 QQXT: Hold
 AZO: Hold
@@ -1429,7 +1437,6 @@ TEI: Hold
 VBF: Hold
 IBB: Hold
 JKHY: Hold
-LARK: Hold
 RGCO: Hold
 YY: Hold
 ARR: Hold
@@ -1448,7 +1455,6 @@ AEIS: Hold
 AMBA: Hold
 CTSH: Hold
 FELE: Hold
-ISRL: Hold
 PENN: Hold
 PSCC: Hold
 AGM-A: Hold
@@ -1461,7 +1467,6 @@ BTZ: Hold
 BWA: Hold
 BYM: Hold
 CAS: Hold
-CCZ: Hold
 DCI: Hold
 ENJ: Hold
 GCO: Hold
@@ -1473,7 +1478,6 @@ MQT: Hold
 MYI: Hold
 SPR: Hold
 SUI: Hold
-TVE: Hold
 ADTN: Hold
 AQU: Hold
 BNDX: Hold
@@ -1565,7 +1569,6 @@ JNJ: Hold
 KTN: Hold
 NCA: Hold
 NIM: Hold
-NXN: Hold
 PFE: Hold
 PFN: Hold
 PPT: Hold
@@ -1575,9 +1578,7 @@ STWD: Hold
 YUM: Hold
 GIGM: Hold
 INTL: Hold
-JADE: Hold
 MBND: Hold
-MEMS: Hold
 NVMI: Hold
 QCLN: Hold
 RDCM: Hold
@@ -1599,7 +1600,6 @@ BKSC: Hold
 CA: Hold
 COLM: Hold
 EMIF: Hold
-GENT: Hold
 HCOM: Hold
 HCSG: Hold
 HTCO: Hold
@@ -1607,6 +1607,7 @@ LYTS: Hold
 QGEN: Hold
 VGSH: Hold
 WOOD: Hold
+AVK: Hold
 DUKH: Hold
 EDF: Hold
 EEA: Hold
@@ -1617,7 +1618,7 @@ BPOPM: Hold
 CRNT: Hold
 FTSL: Hold
 FUND: Hold
-HAYN: Hold
+GENT: Hold
 MSFT: Hold
 PNNT: Hold
 LTRE: Hold
@@ -1628,6 +1629,7 @@ MCY: Hold
 USLM: Hold
 FICO: Hold
 CLMT: Hold
+PFMT: Hold
 EDN: Hold
 LMNR: Hold
 GDOT: Hold
@@ -1651,6 +1653,7 @@ FWRD: Hold
 CMC: Hold
 PHI: Hold
 SNN: Hold
+HAUP: Hold
 AHH: Hold
 CAG: Hold
 HCC: Hold
@@ -1658,7 +1661,6 @@ HLX: Hold
 LBTYA: Hold
 TRC: Hold
 UFI: Hold
-CLWT: Hold
 EXAS: Hold
 BTU: Hold
 FUL: Hold
@@ -1667,6 +1669,7 @@ LVS: Hold
 SJW: Hold
 STZ: Hold
 LBTYK: Hold
+ROYL: Hold
 WEN: Hold
 CAF: Hold
 HSON: Hold
@@ -1695,7 +1698,9 @@ PEBK: Hold
 UNF: Hold
 JLS: Hold
 ROST: Hold
+CCZ: Hold
 MMT: Hold
+ISRL: Hold
 INTU: Hold
 OXLCO: Hold
 GJT: Hold
@@ -1713,7 +1718,6 @@ MDT: Hold
 STE: Hold
 FDUS: Hold
 SOXX: Hold
-VIDE: Hold
 CODI: Hold
 PEP: Hold
 HWAY: Hold
@@ -1754,7 +1758,6 @@ ACN: Sell
 ACTV: Sell
 AGO: Sell
 AME: Sell
-AVK: Sell
 BCC: Sell
 CALX: Sell
 CII: Sell
@@ -1789,7 +1792,6 @@ AMED: Sell
 ANGO: Sell
 CARZ: Sell
 ELSE: Sell
-WVFC: Sell
 CBZ: Sell
 DOX: Sell
 DRI: Sell
@@ -1828,6 +1830,7 @@ AIR: Sell
 KNX: Sell
 STR: Sell
 SXC: Sell
+CITZ: Sell
 CSWC: Sell
 EEFT: Sell
 HTLD: Sell
@@ -1837,6 +1840,7 @@ VRTS: Sell
 CVX: Sell
 EVF: Sell
 GGG: Sell
+GUT: Sell
 HRL: Sell
 NGG: Sell
 FANG: Sell
@@ -1854,13 +1858,13 @@ JBLU: Sell
 MDXG: Sell
 BDX: Sell
 EHI: Sell
-GUT: Sell
 TXT: Sell
 DRIV: Sell
 ESCA: Sell
 ICAD: Sell
 KLIC: Sell
 TLF: Sell
+FIG: Sell
 RATE: Sell
 RIO: Sell
 TD: Sell
@@ -1909,6 +1913,7 @@ JAKK: Strong sell
 REGN: Strong sell
 ATRO: Strong sell
 MHLD: Strong sell
+NAUH: Strong sell
 BUD: Strong sell
 SJM: Strong sell
 CUBI: Strong sell
@@ -1918,7 +1923,6 @@ MWG: Strong sell
 SSD: Strong sell
 AMWD: Strong sell
 BLIN: Strong sell
-EVOL: Strong sell
 ONCY: Strong sell
 CNQ: Strong sell
 KEP: Strong sell
@@ -1930,6 +1934,7 @@ MDLZ: Strong sell
 JOE: Strong sell
 NOAH: Strong sell
 RYN: Strong sell
+EVOL: Strong sell
 GLBZ: Strong sell
 IRDM: Strong sell
 AES: Strong sell
@@ -1990,8 +1995,8 @@ IRBT: Strong sell
 ALGN: Strong sell
 LSCC: Strong sell
 SSBI: Strong sell
-CHKR: Strong sell
 ATAI: Strong sell
+CHKR: Strong sell
 CAR: Strong sell
 NTZ: Strong sell
 MERC: Strong sell
@@ -2024,7 +2029,6 @@ SYT: Strong sell
 LIVE: Strong sell
 PXLW: Strong sell
 SMSI: Strong sell
-DYNT: Strong sell
 FMO: Strong sell
 ISP: Strong sell
 AMCF: Strong sell
@@ -2036,18 +2040,19 @@ QIWI: Strong sell
 QKLS: Strong sell
 RITT: Strong sell
 SVA: Strong sell
+VIDE: Strong sell
+WVFC: Strong sell
 ZAZA: Strong sell
 HOVNP: Strong sell
 MAYS: Strong sell
 DRH: Strong sell
 DMRC: Strong sell
 LSTR: Strong sell
-CITZ: Strong sell
+BSPM: Strong sell
 CHSCP: Strong sell
 A: Strong sell
 ACP: Strong sell
 CIB: Strong sell
-FIG: Strong sell
 UAN: Strong sell
 BSET: Strong sell
 PSCE: Strong sell
@@ -2099,13 +2104,13 @@ ALG: Strong sell
 PPG: Strong sell
 SAIA: Strong sell
 NC: Strong sell
+EMITF: Strong sell
 MKSI: Strong sell
 RPRX: Strong sell
 IHS: Strong sell
 JBSS: Strong sell
 RRTS: Strong sell
 USAC: Strong sell
-EMITF: Strong sell
 OIS: Strong sell
 UPS: Strong sell
 MATW: Strong sell
@@ -2146,7 +2151,6 @@ FORD: Strong sell
 QBAK: Strong sell
 EFUT: Strong sell
 STLY: Strong sell
-HAUP: Strong sell
 JKS: Strong sell
 NVO: Strong sell
 SM: Strong sell
@@ -2155,7 +2159,6 @@ SB: Strong sell
 CCO: Strong sell
 TAP: Strong sell
 NTIC: Strong sell
-BHP: Strong sell
 SMP: Strong sell
 ST: Strong sell
 NSYS: Strong sell
@@ -2172,6 +2175,7 @@ TGT: Strong sell
 ASTC: Strong sell
 DIOD: Strong sell
 MARPS: Strong sell
+ORBT: Strong sell
 CWH: Strong sell
 ROG: Strong sell
 CENT: Strong sell
@@ -2185,7 +2189,6 @@ AMAT: Strong sell
 CLIR: Strong sell
 FTEK: Strong sell
 MRTN: Strong sell
-ORBT: Strong sell
 HY: Strong sell
 BEBE: Strong sell
 CENTA: Strong sell
@@ -2199,6 +2202,7 @@ OTTR: Strong sell
 EVTC: Strong sell
 REXR: Strong sell
 AMKR: Strong sell
+BIS: Strong sell
 CAMT: Strong sell
 CWCO: Strong sell
 GASS: Strong sell
@@ -2239,6 +2243,7 @@ NNBR: Strong sell
 PETS: Strong sell
 POWI: Strong sell
 VOXX: Strong sell
+GGT: Strong sell
 GPN: Strong sell
 LND: Strong sell
 TEN: Strong sell
@@ -2322,7 +2327,6 @@ TCPC: Strong sell
 HAL: Strong sell
 BWEN: Strong sell
 INFA: Strong sell
-PMD: Strong sell
 RDI: Strong sell
 ALB: Strong sell
 BEN: Strong sell
@@ -2372,7 +2376,6 @@ NAII: Strong sell
 TWIN: Strong sell
 APA: Strong sell
 AMBC: Strong sell
-TORM: Strong sell
 OLN: Strong sell
 TREX: Strong sell
 TROX: Strong sell
@@ -2422,7 +2425,6 @@ SLP: Strong sell
 GT: Strong sell
 CX: Strong sell
 PKX: Strong sell
-ESMC: Strong sell
 CDTI: Strong sell
 PZZA: Strong sell
 DDD: Strong sell
@@ -2432,9 +2434,9 @@ TACT: Strong sell
 RGP: Strong sell
 DIN: Strong sell
 DENN: Strong sell
-SBNY: Strong sell
 KOP: Strong sell
 INTG: Strong sell
+SBNY: Strong sell
 SCHL: Strong sell
 OFLX: Strong sell
 VRA: Strong sell
@@ -2459,7 +2461,6 @@ RRGB: Strong sell
 GTN: Strong sell
 EMKR: Strong sell
 MOVE: Strong sell
-ACUR: Strong sell
 TC: Strong sell
 PRTA: Strong sell
 RMCF: Strong sell
@@ -2477,7 +2478,6 @@ LEG: Strong sell
 STM: Strong sell
 DLHC: Strong sell
 ATEC: Strong sell
-ENG: Strong sell
 TRIP: Strong sell
 CE: Strong sell
 PATH: Strong sell
@@ -2486,6 +2486,7 @@ MEG: Strong sell
 KOPN: Strong sell
 TITN: Strong sell
 PBF: Strong sell
+ENG: Strong sell
 CLF: Strong sell
 UGP: Strong sell
 AVNW: Strong sell
@@ -2502,6 +2503,7 @@ TOPS: Strong sell
 DG: Strong sell
 PBYI: Strong sell
 CHNR: Strong sell
+CGA: Strong sell
 GRO: Strong sell
 AMRN: Strong sell
 CREG: Strong sell
@@ -2510,10 +2512,8 @@ DLTR: Strong sell
 GURE: Strong sell
 HDSN: Strong sell
 INTC: Strong sell
-MEIL: Strong sell
 HBIO: Strong sell
 FIVE: Strong sell
-CGA: Strong sell
 INVE: Strong sell
 BOOM: Strong sell
 BLDP: Strong sell
@@ -2552,21 +2552,22 @@ CRIS: Strong sell
 TTEC: Strong sell
 MARK: Strong sell
 BPT: Strong sell
+DYNT: Strong sell
 LITB: Strong sell
 AGEN: Strong sell
 SURG: Strong sell
 FCEL: Strong sell
-SVVC: Strong sell
 BIOA: Strong sell
+SVVC: Strong sell
 CMLS: Strong sell
-IPDN: Strong sell
 LUNA: Strong sell
+IPDN: Strong sell
 GRAM: Strong sell
 DGLY: Strong sell
 CCG: Strong sell
 CUTR: Strong sell
-STI: Strong sell
 BLRX: Strong sell
+STI: Strong sell
 OMEX: Strong sell
 NVDQ: Strong sell
 PRPH: Strong sell
@@ -2574,9 +2575,8 @@ AWH: Strong sell
 DDC: Strong sell
 ASTI: Strong sell
 TNXP: Strong sell
-BSPM: Strong sell
-MEOH: Strong sell
 ANTH: Strong sell
+MEOH: Strong sell
 CUBA: Strong sell
 VAC: Strong sell
 MTDR: Strong sell
@@ -2586,7 +2586,6 @@ RLJ: Strong sell
 HEES: Strong sell
 ARKR: Strong sell
 DHX: Strong sell
-CPWR: Strong sell
 SUNE: Strong sell
 HALL: Strong sell
 REX: Strong sell
@@ -2603,7 +2602,6 @@ PBT: Strong sell
 IMKTA: Strong sell
 BRID: Strong sell
 CERS: Strong sell
-NAUH: Strong sell
 BTE: Strong sell
 ENZ: Strong sell
 STNG: Strong sell
@@ -2617,21 +2615,24 @@ EMMS: Strong sell
 FALC: Strong sell
 GNK: Strong sell
 PVH: Strong sell
+MRGE: Strong sell
 CRL: Strong sell
 OXY: Strong sell
 TNK: Strong sell
-MRGE: Strong sell
 DVN: Strong sell
 RELV: Strong sell
 PII: Strong sell
 ALOT: Strong sell
 DYSL: Strong sell
 MUR: Strong sell
+PMD: Strong sell
+TORM: Strong sell
 NE: Strong sell
 AMTD: Strong sell
 VAL: Strong sell
 EC: Strong sell
 QCCO: Strong sell
+ESMC: Strong sell
 LPSN: Strong sell
 STEC: Strong sell
 MEI: Strong sell
@@ -2644,9 +2645,10 @@ SMIT: Strong sell
 SMRT: Strong sell
 SQQQ: Strong sell
 CJJD: Strong sell
-TWER: Strong sell
 NSTG: Strong sell
+MEIL: Strong sell
 CLRO: Strong sell
+TWER: Strong sell
 DM: Strong sell
 BOLT: Strong sell
 ACET: Strong sell
@@ -2660,6 +2662,7 @@ CYCC: Strong sell
 CAFI: Strong sell
 GTI: Strong sell
 CYN: Strong sell
+CPWR: Strong sell
 KGJI: Strong sell
 CHEV: Strong sell
 MGAM: Strong sell

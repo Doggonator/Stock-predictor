@@ -1,1963 +1,2008 @@
-These suggestions were updated: 03-13-2025
-KTOS: Strong Buy
-PTCT: Strong Buy
-OHI: Strong Buy
-DCO: Strong Buy
-DPG: Strong Buy
-XEL: Strong Buy
-SBRA: Strong Buy
-AEE: Strong Buy
+These suggestions were updated: 03-22-2025
+DCTH: Strong Buy
+CIA: Strong Buy
+PNRG: Strong Buy
+SNFCA: Strong Buy
+FTNT: Strong Buy
+GLNG: Strong Buy
+CASH: Strong Buy
+HNRG: Strong Buy
+MMYT: Strong Buy
+PODD: Strong Buy
+MS: Strong Buy
+CRK: Strong Buy
+HFWA: Strong Buy
+K: Strong Buy
+KMI: Strong Buy
+CCBG: Strong Buy
+CHRW: Strong Buy
+CMA: Strong Buy
+STT: Strong Buy
+TYG: Strong Buy
+OSBC: Strong Buy
+SAP: Strong Buy
+HBAN: Strong Buy
+JPM: Strong Buy
+TPZ: Strong Buy
+GLAD: Strong Buy
+KGC: Strong Buy
+KYN: Strong Buy
+BSX: Strong Buy
+KEY: Strong Buy
+LWAY: Strong Buy
+RVSB: Strong Buy
+SANM: Strong Buy
+ACNB: Strong Buy
+MAG: Strong Buy
+IDT: Strong Buy
+GB: Strong Buy
+RNST: Strong Buy
+JCI: Strong Buy
+HSTM: Strong Buy
+C: Strong Buy
+ALTR: Strong Buy
+MTG: Strong Buy
+TGI: Strong Buy
 TRP: Strong Buy
-ENB: Strong Buy
-LUV: Strong Buy
-DGX: Strong Buy
-MO: Strong Buy
-JPC: Strong Buy
-NFG: Strong Buy
-SRV: Strong Buy
-CBOE: Strong Buy
-DUK: Strong Buy
-IBN: Strong Buy
-GBLI: Strong Buy
-JRI: Strong Buy
-BUI: Strong Buy
-FORTY: Strong Buy
-DSWL: Strong Buy
-DTE: Strong Buy
-AM: Strong Buy
-PBA: Strong Buy
-UTHR: Strong Buy
-OKE: Strong Buy
-CACI: Strong Buy
+ARLP: Strong Buy
+TDY: Strong Buy
+UMH: Strong Buy
+MA: Strong Buy
+TW: Strong Buy
+MORN: Strong Buy
+FGB: Strong Buy
+PFSI: Strong Buy
+BGC: Strong Buy
+ALKS: Strong Buy
+SENEA: Strong Buy
+CAH: Strong Buy
+GNW: Strong Buy
+GM: Strong Buy
+PHX: Strong Buy
+CALX: Strong Buy
+EQR: Strong Buy
+ESS: Strong Buy
+FOF: Strong Buy
+CAAS: Strong Buy
+SBGI: Strong Buy
+AN: Strong Buy
+ICE: Strong Buy
+FLC: Strong Buy
+CII: Strong Buy
+DFP: Strong Buy
+FFC: Strong Buy
+AB: Strong Buy
+IIF: Strong Buy
+UNH: Strong Buy
+ISD: Strong Buy
+LDP: Strong Buy
+NFJ: Strong Buy
+SAR: Strong Buy
+AZO: Strong Buy
+HPI: Strong Buy
+MMC: Strong Buy
+BECN: Strong Buy
+ESLT: Strong Buy
+VRSN: Strong Buy
+POWL: Strong Buy
+MCS: Strong Buy
+CNK: Strong Buy
+TISI: Strong Buy
+OMER: Strong Buy
+PAR: Strong Buy
+FUNC: Strong Buy
+GMED: Strong Buy
+RCON: Strong Buy
+APO: Strong Buy
+CMTL: Strong Buy
+BKE: Strong Buy
+GTLS: Strong Buy
+SUPN: Strong Buy
+SAH: Strong Buy
+ENZN: Strong Buy
+USB: Strong Buy
+CLH: Strong Buy
+BIO: Strong Buy
+XOMA: Strong Buy
+KTCC: Strong Buy
+SRDX: Strong Buy
+KB: Strong Buy
+OII: Strong Buy
 MKTX: Strong Buy
-CLB: Strong Buy
-ABR: Strong Buy
+SOL: Strong Buy
+CCJ: Strong Buy
+WERN: Strong Buy
+DXYN: Strong Buy
+ACFN: Buy
+GGAL: Buy
 UNAM: Buy
-INSM: Buy
-PAM: Buy
-TBBK: Buy
-GWRE: Buy
-EE: Buy
-PNRG: Buy
-TRGP: Buy
-ALNY: Buy
-PWOD: Buy
-SYBT: Buy
-CASH: Buy
-CFFI: Buy
-VBFC: Buy
-EBTC: Buy
-FSFG: Buy
-SNFCA: Buy
+CRS: Buy
+NBN: Buy
+Z: Buy
 FTK: Buy
-OPY: Buy
-AKR: Buy
-BSRR: Buy
-LGND: Buy
-CSV: Buy
-RBCN: Buy
-CRK: Buy
+UNTY: Buy
+PAM: Buy
+CFFI: Buy
+STRT: Buy
+VBFC: Buy
+PX: Buy
+NRIM: Buy
+EE: Buy
+BMRC: Buy
+INSM: Buy
+PWOD: Buy
+TDS: Buy
+FCCO: Buy
+MD: Buy
+EBTC: Buy
+LRN: Buy
+PDEX: Buy
+TBBK: Buy
 FISI: Buy
-HTLF: Buy
-MOFG: Buy
-UVSP: Buy
-CZWI: Buy
-EFSC: Buy
-FOX: Buy
-GLW: Buy
-UTI: Buy
-IDCC: Buy
-CBAN: Buy
-HBNC: Buy
-GIL: Buy
-IMAX: Buy
-IP: Buy
-MLI: Buy
-ATSG: Buy
-CAC: Buy
-CBL: Buy
-CW: Buy
-IAG: Buy
-CBNK: Buy
-ERIC: Buy
-FOXA: Buy
-USAP: Buy
-BANF: Buy
-FBIZ: Buy
-RELL: Buy
-FHN: Buy
-ONB: Buy
-ITIC: Buy
-ONB: Buy
-BK: Buy
-KMI: Buy
-MSI: Buy
-BELFB: Buy
-INDB: Buy
-UBOH: Buy
+SYBT: Buy
+ALSN: Buy
+SATS: Buy
+GPI: Buy
+GWRE: Buy
+WAL: Buy
+BANR: Buy
+DFS: Buy
+HAFC: Buy
+HWBK: Buy
+PNFP: Buy
+CPF: Buy
+TRGP: Buy
+DXPE: Buy
 WILC: Buy
-CMI: Buy
-TYG: Buy
-CHRW: Buy
+AKR: Buy
+CVLT: Buy
+EXLS: Buy
+FSFG: Buy
+HTLF: Buy
+ISRG: Buy
+RBCN: Buy
+UMBF: Buy
+CBU: Buy
+GIL: Buy
+OPY: Buy
+UTI: Buy
+ATSG: Buy
+EFSC: Buy
+FEIM: Buy
+CSV: Buy
+MLI: Buy
+SNV: Buy
+TGS: Buy
+ACIW: Buy
+BSRR: Buy
+EXPE: Buy
+SBFG: Buy
+FFIV: Buy
+IDCC: Buy
+LGND: Buy
+SF: Buy
+CBL: Buy
+HBNC: Buy
+R: Buy
+CAC: Buy
+USAP: Buy
+UVSP: Buy
+IP: Buy
+MTB: Buy
+CBAN: Buy
+CBNK: Buy
+CZWI: Buy
+FOX: Buy
+ITIC: Buy
+MOFG: Buy
+VICR: Buy
+BANF: Buy
+FBMS: Buy
+RBCAA: Buy
+RELL: Buy
 COKE: Buy
-TGTX: Buy
-CUZ: Buy
-FI: Buy
-HBCP: Buy
-LII: Buy
+FBIZ: Buy
+FOXA: Buy
+MAGS: Buy
+GS: Buy
+BRKL: Buy
+FARO: Buy
+FBNC: Buy
 HSII: Buy
-HTBI: Buy
-K: Buy
+NBTB: Buy
+ZION: Buy
+IAG: Buy
 BCOV: Buy
-CTBI: Buy
-EXEL: Buy
-OFIX: Buy
-PLBC: Buy
-QABA: Buy
-TRMK: Buy
-MMM: Buy
-BBSI: Buy
-COCO: Buy
+BCRX: Buy
+FLEX: Buy
+SKYY: Buy
 UBFO: Buy
-MDU: Buy
-ETR: Buy
-FDP: Buy
-KGC: Buy
-RUSHA: Buy
-TOWN: Buy
-TPZ: Buy
-BOKF: Buy
-PBHC: Buy
+BHLB: Buy
+CFR: Buy
+CM: Buy
+COF: Buy
+CW: Buy
+GLW: Buy
+RJF: Buy
+CATY: Buy
+CRVL: Buy
+EWBC: Buy
+HCKT: Buy
+SIEB: Buy
+TCBI: Buy
+FHN: Buy
+TYL: Buy
+CAKE: Buy
+CNOB: Buy
+INDB: Buy
 PPC: Buy
-BMI: Buy
-CHH: Buy
-GABC: Buy
-GLAD: Buy
-MBWM: Buy
-BOH: Buy
-KYN: Buy
-FFIN: Buy
-INCY: Buy
-SFBC: Buy
-STBA: Buy
-TCBK: Buy
-BIOF: Buy
-ENTR: Buy
-IROQ: Buy
-WSFS: Buy
-HD: Buy
-PEG: Buy
-CASY: Buy
-MMLP: Buy
-PATK: Buy
-SEIC: Buy
-AXS: Buy
-JCI: Buy
-MWA: Buy
-TJX: Buy
-FRME: Buy
-RNST: Buy
-STEL: Buy
-WSBC: Buy
-CXW: Buy
-IDT: Buy
-NI: Buy
-RMD: Buy
+WTFC: Buy
+BK: Buy
+BTO: Buy
+FDP: Buy
+FI: Buy
+G: Buy
+MSI: Buy
+ONB: Buy
+ONB: Buy
+CMI: Buy
+PNC: Buy
+ADSK: Buy
+HBCP: Buy
+HTBI: Buy
+OPOF: Buy
+USM: Buy
+AAPL: Buy
+CTBI: Buy
+GRMN: Buy
+AMP: Buy
+LII: Buy
+MMM: Buy
+ALNY: Buy
+COCO: Buy
+KTOS: Buy
+NDAQ: Buy
+PBHC: Buy
+BYD: Buy
+CNO: Buy
+CUZ: Buy
+FCF: Buy
+PB: Buy
+PSO: Buy
 TMUS: Buy
-ARLP: Buy
-GOOD: Buy
-HOMB: Buy
-MRCY: Buy
+MASI: Buy
+NTRS: Buy
+QABA: Buy
+TRAK: Buy
+APD: Buy
+AWI: Buy
+BLK: Buy
+IMAX: Buy
+MDU: Buy
+SKT: Buy
+WBS: Buy
+BBSI: Buy
+FFBC: Buy
+FULT: Buy
+IROQ: Buy
+MLAB: Buy
+PROV: Buy
+SFBC: Buy
+TRMK: Buy
+VOXX: Buy
+CHH: Buy
+CXW: Buy
+KIM: Buy
+FLIC: Buy
+MMSI: Buy
+RUSHA: Buy
+STBA: Buy
+TOWN: Buy
+IBM: Buy
+RM: Buy
+BIOF: Buy
+GABC: Buy
+TCBK: Buy
+MWA: Buy
+PANW: Buy
+PH: Buy
+UNM: Buy
+DSGX: Buy
+EQIX: Buy
+MBWM: Buy
+SAMG: Buy
+SBUX: Buy
+STEL: Buy
+HD: Buy
+SPG: Buy
+UNF: Buy
+BOKF: Buy
+FITB: Buy
+MMLP: Buy
+TGTX: Buy
+URBN: Buy
+BOH: Buy
+NI: Buy
 SNA: Buy
-CFNB: Buy
+TG: Buy
+WAB: Buy
+CHTR: Buy
+ENTR: Buy
+HOMB: Buy
+LPLA: Buy
+THFF: Buy
+AXS: Buy
+BERY: Buy
+CRH: Buy
+NRG: Buy
+OKE: Buy
+RMD: Buy
+AMZN: Buy
+CSCO: Buy
+CVCO: Buy
+WSBC: Buy
+MCO: Buy
+CPRX: Buy
 CTAS: Buy
 EBAY: Buy
-OPOF: Buy
-THFF: Buy
-BRC: Buy
-APEI: Buy
-IBM: Buy
-REG: Buy
-ADP: Buy
+EMKR: Buy
+FRME: Buy
+GOOD: Buy
+HURN: Buy
+WSFS: Buy
+ACM: Buy
+BCS: Buy
+CDE: Buy
+PM: Buy
+TJX: Buy
+CRAI: Buy
 HTBK: Buy
-PSCU: Buy
-SAMG: Buy
-CR: Buy
-CRH: Buy
-DBD: Buy
+PSCF: Buy
+SEIC: Buy
+SSNC: Buy
+PEG: Buy
+REG: Buy
 T: Buy
-RVSB: Buy
-SRCE: Buy
-WLDN: Buy
-BERY: Buy
-FTI: Buy
-OFG: Buy
-BFIN: Buy
-IBOC: Buy
+XEL: Buy
+ADP: Buy
+ESSA: Buy
 INFN: Buy
-SLGN: Buy
-TSBK: Buy
-URBN: Buy
-MAIN: Buy
-FMNB: Buy
-MCBI: Buy
-RUSHB: Buy
-AVB: Buy
-ITT: Buy
-UMH: Buy
-MAG: Buy
-VOXX: Buy
-VSEC: Buy
-AIZ: Buy
-INGR: Buy
-RBA: Buy
-TW: Buy
-WAT: Buy
-CHCO: Buy
-MGEE: Buy
 MGYR: Buy
-TXRH: Buy
-WSBF: Buy
-ADC: Buy
-NYT: Buy
-OLP: Buy
+SBCF: Buy
+AEE: Buy
+PRI: Buy
 RBC: Buy
-ALTR: Buy
-CINF: Buy
-GILD: Buy
+WAT: Buy
+APEI: Buy
+BOTJ: Buy
+CTSH: Buy
+KMDA: Buy
+PNQI: Buy
+PTCT: Buy
+SLM: Buy
 SNDK: Buy
+TRMB: Buy
+AFL: Buy
+AON: Buy
+BLX: Buy
+BRC: Buy
+DCO: Buy
+MFC: Buy
+OHI: Buy
+RPM: Buy
+RY: Buy
+BFIN: Buy
+CHMG: Buy
+EBMT: Buy
+MDXG: Buy
+SPBC: Buy
+ADC: Buy
+AIZ: Buy
+DBD: Buy
+DOLE: Buy
+INGR: Buy
+JBL: Buy
+MSCI: Buy
+NPV: Buy
+GILT: Buy
+MCBI: Buy
+MGEE: Buy
+OSIS: Buy
+PAYX: Buy
+PSCU: Buy
+RDWR: Buy
+SRCE: Buy
+TSBK: Buy
 AEM: Buy
 ATO: Buy
-DOLE: Buy
-OPK: Buy
-TDY: Buy
-AUBN: Buy
+KT: Buy
+OFG: Buy
 AZPN: Buy
-LARK: Buy
-LKFN: Buy
-MDXG: Buy
-PAYX: Buy
-EQT: Buy
-FRT: Buy
-GB: Buy
-SHW: Buy
-SPE: Buy
-SXI: Buy
-CENX: Buy
-CTSH: Buy
-GSBC: Buy
-KVHI: Buy
-RAND: Buy
-AON: Buy
-DRI: Buy
-FGB: Buy
-GE: Buy
-LNT: Buy
-RQI: Buy
-RVT: Buy
-SLF: Buy
-PSMT: Buy
-YY: Buy
-EMO: Buy
+DGII: Buy
+LOPE: Buy
+MRCC: Buy
+NATH: Buy
+SLGN: Buy
+WSBF: Buy
+AVB: Buy
+DPG: Buy
+DVA: Buy
+EOS: Buy
 ERJ: Buy
-HR: Buy
-MFG: Buy
-OGE: Buy
-PHX: Buy
-PPL: Buy
-PRA: Buy
-CHKP: Buy
-SRCL: Buy
-ATR: Buy
+BOSC: Buy
+KVHI: Buy
+NWS: Buy
+PSCI: Buy
+RFIL: Buy
+RUSHB: Buy
+SBRA: Buy
+WLDN: Buy
 BMY: Buy
-CPT: Buy
+RBA: Buy
+SPE: Buy
+AIQ: Buy
+CINF: Buy
+ENSG: Buy
+IBOC: Buy
+KTEC: Buy
+PFBC: Buy
+PFBX: Buy
+SRCL: Buy
+VTWG: Buy
 EIG: Buy
-ESS: Buy
+EOI: Buy
+LH: Buy
+MAIN: Buy
+OLP: Buy
+AUBN: Buy
+CENX: Buy
+CHCO: Buy
+LAMR: Buy
+MELI: Buy
+MTRX: Buy
+BRO: Buy
+CIM: Buy
+ENB: Buy
+IDA: Buy
+LNT: Buy
+LTM: Buy
+NPK: Buy
+PGR: Buy
+GSBC: Buy
+VSEC: Buy
+VTHR: Buy
+FRT: Buy
+GIB: Buy
+ITT: Buy
+MET: Buy
+ORI: Buy
+PPL: Buy
+SCD: Buy
+V: Buy
+ELSE: Buy
+FNLC: Buy
+PEBO: Buy
+PRFZ: Buy
+TDIV: Buy
+VRSK: Buy
+VTWO: Buy
+AGO: Buy
+AMG: Buy
+ATR: Buy
+BR: Buy
+CAE: Buy
+CPK: Buy
+DOV: Buy
+EMR: Buy
+EXK: Buy
+GLP: Buy
+JCE: Buy
+JWN: Buy
+MPLX: Buy
+NOK: Buy
+NYT: Buy
+RQI: Buy
+SLF: Buy
+SWI: Buy
+THG: Buy
+IPAR: Buy
+ITRN: Buy
+NTCT: Buy
+PSMT: Buy
+TIPT: Buy
+TTWO: Buy
+AJG: Buy
+BNS: Buy
+EVC: Buy
+FBP: Buy
 GTY: Buy
 MAS: Buy
-NPK: Buy
-TPX: Buy
-CAAS: Buy
-PSCH: Buy
-PWRD: Buy
-AZZ: Buy
-BRO: Buy
-CAE: Buy
-EQR: Buy
-HTD: Buy
-MPLX: Buy
-THG: Buy
-V: Buy
-DGRS: Buy
-IRDM: Buy
+MCI: Buy
+NCZ: Buy
+SCI: Buy
+CHKP: Buy
+LSBK: Buy
 ORLY: Buy
-CAH: Buy
-EXK: Buy
-FOF: Buy
-IDA: Buy
-KAR: Buy
-KT: Buy
-LTM: Buy
-MAA: Buy
-UDR: Buy
-CIZN: Buy
-SENEA: Buy
-VRSK: Buy
-AGO: Buy
-CPK: Buy
-FDS: Buy
-GIB: Buy
-NOK: Buy
-PNW: Buy
-TGI: Buy
-GK: Buy
-AGI: Buy
 ALEX: Buy
-ASA: Buy
+APH: Buy
+ASG: Buy
+CEE: Buy
+CHN: Buy
+CPT: Buy
+EQT: Buy
+ETY: Buy
+FDS: Buy
+HEI: Buy
+HTD: Buy
+KAR: Buy
+MFG: Buy
+OPK: Buy
+PBH: Buy
+RVT: Buy
+CGO: Buy
+CSQ: Buy
+GLRE: Buy
+UFCS: Buy
+UNB: Buy
+ABT: Buy
+EMO: Buy
+GE: Buy
+HR: Buy
+RGA: Buy
+SYK: Buy
+BCPC: Buy
+DGRS: Buy
+FORTY: Buy
+HEES: Buy
+IMCB: Buy
+KOOL: Buy
+VTWV: Buy
+AGI: Buy
+AMID: Buy
+BGH: Buy
+DE: Buy
+DRI: Buy
+ETB: Buy
+FAF: Buy
+FNF: Buy
+FTI: Buy
+MKL: Buy
+NCV: Buy
+RMT: Buy
+TRV: Buy
+UDR: Buy
+COLM: Buy
+CWBC: Buy
+FDUS: Buy
+NASB: Buy
+PWRD: Buy
+QLTY: Buy
 D: Buy
+ETJ: Buy
+LNC: Buy
+NNI: Buy
+RLI: Buy
+UGI: Buy
+AMSF: Buy
+CBOE: Buy
+CZNC: Buy
+DGRW: Buy
+FAST: Buy
+GIGM: Buy
+IRDM: Buy
+KONG: Buy
+LARK: Buy
+SENEB: Buy
+ASA: Buy
+CCK: Buy
+FFA: Buy
 FMS: Buy
+GAM: Buy
+GDV: Buy
 GFF: Buy
+HCP: Buy
+HMN: Buy
+LNN: Buy
+NHI: Buy
 NRP: Buy
 PDT: Buy
-PGR: Buy
-SCI: Buy
-SMFG: Buy
-ALKS: Buy
-HALO: Buy
-AVT: Buy
-AWP: Buy
-CEE: Buy
-DOC: Buy
-ICE: Buy
-PBH: Buy
-CWST: Buy
-EZPW: Buy
-GPOR: Buy
-ITRI: Buy
-KMDA: Buy
-SOHU: Buy
-UFCS: Buy
-CCK: Buy
-CNL: Buy
-FNF: Buy
-FT: Buy
-GGM: Buy
-HCP: Buy
-HON: Buy
-IPI: Buy
-SO: Buy
-AMSF: Buy
-COLM: Buy
-VLGEA: Buy
+ESCA: Buy
+GBLI: Buy
+PAAS: Buy
+PSCH: Buy
+PSTR: Buy
+AGM: Buy
 ALL: Buy
-FLC: Buy
-HIG: Buy
+BKH: Buy
+DOC: Buy
+FR: Buy
+HON: Buy
 KFY: Buy
-KMPR: Buy
-NHI: Buy
+NAZ: Buy
+NFG: Buy
 NSC: Buy
 PAC: Buy
 PAG: Buy
-SWI: Buy
-TRV: Buy
-UL: Buy
-ZTR: Buy
-FAST: Buy
-GIGM: Buy
-KONG: Buy
-LCNB: Buy
-PAAS: Buy
-QQXT: Buy
-RGLD: Buy
-SENEB: Buy
-WABC: Buy
-BKH: Buy
-CII: Buy
+SNX: Buy
+SR: Buy
+ACWI: Buy
+VONV: Buy
+ACT: Buy
+AIV: Buy
+AVT: Buy
+AWP: Buy
+CBZ: Buy
 CMS: Buy
-DE: Buy
-LNN: Buy
+DHF: Buy
+DUK: Buy
+FN: Buy
 MCD: Buy
-MPV: Buy
 PFD: Buy
 PFO: Buy
 UBS: Buy
-ZF: Buy
-ARCC: Buy
-DGICB: Buy
-ESCA: Buy
-FDUS: Buy
-HAS: Buy
-KTEC: Buy
-LSBK: Buy
-SMPL: Buy
-AGM: Buy
-DFP: Buy
-FFC: Buy
-FN: Buy
-GHY: Buy
-GLP: Buy
-ISD: Buy
-RDN: Buy
-RFI: Buy
-ROK: Buy
-SAR: Buy
-CHI: Buy
-ESLT: Buy
-FLOW: Buy
-FTCS: Buy
-PSCC: Buy
-TSCO: Buy
-AEP: Buy
-EPD: Buy
-L: Buy
-NFJ: Buy
-SCHW: Buy
-UTL: Buy
-CPRT: Buy
-EA: Buy
+CWST: Buy
 ERII: Buy
-ABT: Buy
-ADT: Buy
+ITRI: Buy
+LCNB: Buy
+PSCC: Buy
+PSCT: Buy
+QQXT: Buy
+RGLD: Buy
+SOHU: Buy
+AEP: Buy
 AME: Buy
-AWR: Buy
+ARDC: Buy
+BOE: Buy
 ECL: Buy
-ELS: Buy
+EPD: Buy
 EPR: Buy
-ESI: Buy
-IRET: Buy
-JHI: Buy
-MAV: Buy
-MITT: Buy
-NJR: Buy
+GCV: Buy
+GGM: Buy
+JRI: Buy
+KR: Buy
 NWN: Buy
+ROK: Buy
 RSG: Buy
-UTF: Buy
-PLPC: Buy
-AER: Buy
+SMFG: Buy
+SPLP: Buy
+SRV: Buy
+TRNO: Buy
+UTL: Buy
+ZTR: Buy
+ACAD: Buy
+ARCC: Buy
+BKSC: Buy
+FTCS: Buy
+HALO: Buy
+KWEB: Buy
+QQEW: Buy
+SHLD: Buy
+TXN: Buy
+VLGEA: Buy
+WABC: Buy
+AGM-A: Buy
+ESI: Buy
+L: Buy
+LTC: Buy
+NJR: Buy
+NMT: Buy
+RNP: Buy
+ADI: Buy
+CHY: Buy
+CME: Buy
+MPAA: Buy
+TFSL: Buy
+ADX: Buy
 BDJ: Buy
 BFAM: Buy
-BFS: Buy
-DD: Buy
-EOD: Buy
-GCV: Buy
-HQH: Buy
-LTC: Buy
-STC: Buy
-BECN: Buy
-HEES: Buy
-LOAN: Buy
-MNDO: Buy
-WDFC: Buy
-AGD: Buy
-AGM-A: Buy
+BMO: Buy
+GHY: Buy
+MAV: Buy
+RFI: Buy
+CPRT: Buy
+FLOW: Buy
+GPOR: Buy
+HSIC: Buy
+MGRC: Buy
+TSCO: Buy
+BUI: Buy
 CMU: Buy
-FE: Buy
-HQL: Buy
-IGA: Buy
-NEE: Buy
-POST: Buy
-SGU: Buy
-MIDD: Buy
-AEF: Buy
-AFG: Buy
 CXH: Buy
-DNP: Buy
-EMD: Buy
+EVT: Buy
+ITW: Buy
+JHI: Buy
+JPI: Buy
+MHI: Buy
+MPV: Buy
+ODC: Buy
+RDN: Buy
+SGU: Buy
+STK: Buy
+USG: Buy
+CHI: Buy
+CHW: Buy
+DGICA: Buy
+GRID: Buy
+HAS: Buy
+JAZZ: Buy
+MIDD: Buy
+SOCL: Buy
+AER: Buy
+AFG: Buy
+AGD: Buy
+APAM: Buy
+BFS: Buy
+CAS: Buy
+DD: Buy
+ELS: Buy
+ETW: Buy
 GJH: Buy
 GNT: Buy
-GOF: Buy
-ITW: Buy
-MG: Buy
-MMC: Buy
+IGA: Buy
+IRET: Buy
+LUV: Buy
+MDT: Buy
 MSD: Buy
-UHT: Buy
-USG: Buy
-ZTS: Buy
-APWC: Buy
-BKSC: Buy
-CME: Buy
-ESGR: Buy
-FCAP: Buy
-GOODO: Buy
-HSIC: Buy
-ALE: Buy
-ARP: Buy
-AU: Buy
-GRX: Buy
-HEQ: Buy
-IGD: Buy
-KR: Buy
-MUE: Buy
 NAD: Buy
-SCM: Buy
+NAN: Buy
+NEE: Buy
+PFX: Buy
 SKM: Buy
-SUI: Buy
+UHT: Buy
+UTF: Buy
+BJRI: Buy
+CMRX: Buy
+JKHY: Buy
+MAT: Buy
+QTEC: Buy
+HQH: Buy
+HTGC: Buy
+MNDO: Buy
+BGB: Buy
 TSI: Buy
-QGEN: Buy
-SHLD: Buy
-VRSN: Buy
-FRA: Buy
-NWE: Buy
-CNP: Buy
-PHH: Buy
-UVV: Buy
-EXC: Buy
+IBN: Buy
+PSF: Buy
+AM: Buy
+AWF: Buy
+GDL: Buy
+PBA: Buy
+SCM: Buy
+SBAC: Buy
+ARB: Buy
+HDB: Buy
+HIO: Buy
+CNL: Buy
+OXLCP: Buy
+AU: Buy
+BRT: Buy
 HMY: Buy
-SU: Buy
-DX: Buy
-GOODN: Buy
-GJT: Buy
-BPOPM: Buy
-VMBS: Buy
-CUB: Buy
-VGSH: Buy
-ARR: Buy
-ED: Buy
-PULS: Buy
-RRC: Buy
-VGIT: Buy
-XONE: Buy
-MRGE: Buy
-HTCO: Buy
-EBS: Buy
+NVS: Buy
+SNCR: Buy
+VCSH: Buy
+GSIG: Buy
+AMH: Buy
+EGO: Buy
+HPS: Buy
+JNJ: Buy
+CALI: Buy
+FTSL: Buy
 TSL: Buy
-RAIL: Buy
 PRKR: Buy
+HTCO: Buy
+GEVO: Buy
+EBS: Buy
 RGS: Buy
 PSIX: Buy
-SMTC: Buy
 TSLA: Buy
 WLFC: Buy
-ANTH: Buy
-WOOF: Buy
-NEON: Buy
+SQNS: Buy
+RMTI: Buy
+GCI: Buy
 GCO: Buy
-KOSS: Buy
 UAL: Buy
-FWRD: Buy
-TISI: Buy
-COHR: Buy
-MSTR: Buy
-ALLT: Buy
+PL: Buy
 CDXS: Buy
-POWL: Buy
-USLM: Buy
-MRVL: Buy
 OPTT: Buy
+USEG: Buy
+USLM: Buy
 EDN: Buy
-INOD: Buy
-NCTY: Buy
-AAON: Buy
+RH: Buy
+MRVL: Buy
+SMTC: Buy
+AXR: Buy
+COHR: Buy
+NGVC: Buy
+ALLT: Buy
+FLXS: Buy
 IESC: Buy
-LFVN: Buy
+NCTY: Buy
 EAT: Buy
 TAC: Buy
-RMTI: Buy
-AXR: Buy
-OMCL: Buy
-DCTH: Buy
-CLMT: Buy
-CRNT: Buy
-OMER: Buy
-CNK: Buy
-HBI: Buy
-UNFI: Buy
-CCL: Buy
-FLXS: Buy
-CALM: Buy
-CORT: Buy
-PL: Buy
+CIEN: Buy
+VNET: Buy
 CDZI: Buy
-RDNT: Buy
-IRBT: Buy
 TPL: Buy
-GGAL: Buy
-LPSN: Buy
-STRL: Buy
-AMBA: Buy
-HNRG: Buy
+ATLC: Buy
+LPTH: Buy
+NTGR: Buy
+HBI: Buy
+LTBR: Buy
+CLS: Buy
+AOSL: Buy
+CORT: Buy
+OMCL: Buy
+TATT: Buy
+SFM: Buy
+PEGA: Buy
 DCOM: Buy
+DAVE: Buy
+PRIM: Buy
+DAKT: Buy
+ELA: Buy
+EVR: Buy
+SN: Buy
+CALM: Buy
+IBKR: Buy
+KKR: Buy
+RCL: Buy
+RIGL: Buy
+NCLH: Buy
+SASR: Buy
+MLR: Buy
+ADTN: Buy
 GVA: Buy
 YPF: Buy
-CNTY: Buy
-GLDD: Buy
-NTGR: Buy
-PAR: Buy
-RCL: Buy
-LGCY: Buy
-FUNC: Buy
-GLNG: Buy
-CIA: Buy
-FIX: Buy
-MLR: Buy
-MNOV: Buy
-AMRC: Buy
-BMA: Buy
-ADTN: Buy
-PRIM: Buy
-SASR: Buy
-GEO: Buy
-TILE: Buy
-ELA: Buy
-FEIM: Buy
-NECB: Buy
-FICO: Buy
-TSEM: Buy
-APO: Buy
+CEVA: Buy
+STRL: Buy
 CLNE: Buy
-GMED: Buy
+DECK: Buy
+ISSC: Buy
+NECB: Buy
 NOW: Buy
-DJCO: Buy
-RIGL: Buy
-MPB: Buy
-IRS: Buy
-WAL: Buy
-PNFP: Buy
-SBFG: Buy
-SHBI: Buy
-GPI: Buy
-IRM: Buy
-MTZ: Buy
-HIFS: Buy
-HWKN: Buy
-MMYT: Buy
-TIGR: Buy
-ALSN: Buy
-SNV: Buy
-TGS: Buy
-GAIA: Buy
-LMAT: Buy
-LMNR: Buy
-NCMI: Buy
-PDEX: Buy
-BKU: Buy
-MD: Buy
-IBCP: Buy
-ORRF: Buy
-PGC: Buy
-UMBF: Buy
-BKE: Buy
-DFS: Buy
-MOD: Buy
-ORCL: Buy
-SLG: Buy
-PDM: Buy
-LINC: Buy
-MNKD: Buy
-CBU: Buy
-CLIR: Buy
-SMBC: Buy
-LEE: Buy
-MSB: Buy
-CPSS: Buy
-SIEB: Buy
-CNS: Buy
-CMTL: Buy
-NVDA: Buy
-STKL: Buy
-NWL: Buy
-R: Buy
-SFST: Buy
-ANGO: Buy
-EGBN: Buy
-EHTH: Buy
-QCRH: Buy
-DEI: Buy
-MAC: Buy
+AGYS: Buy
 AXDX: Buy
-BV: Buy
-PAY: Buy
-ASUR: Buy
-BCRX: Buy
-FCNCA: Buy
-ILMN: Buy
+ICUI: Buy
+PLXS: Buy
+RDNT: Buy
+TILE: Buy
+DAL: Buy
+QUAD: Buy
+LGCY: Buy
+MPB: Buy
+CLMT: Buy
+JAKK: Buy
+NWPX: Buy
+FIX: Buy
+GEO: Buy
+HIFS: Buy
+PGC: Buy
+ATRC: Buy
+COLB: Buy
+CLIR: Buy
+NCMI: Buy
+SKYW: Buy
+FICO: Buy
+ORRF: Buy
+SHBI: Buy
+STKL: Buy
+TEO: Buy
+AVGO: Buy
+AI: Buy
+IRS: Buy
+DJCO: Buy
+ICAD: Buy
+LQDT: Buy
+SMBC: Buy
+LYV: Buy
+IBCP: Buy
+KEQU: Buy
+LINC: Buy
+QCRH: Buy
+IRM: Buy
+GBCI: Buy
+MNKD: Buy
+UTHR: Buy
+LAD: Buy
+MSB: Buy
+BKU: Buy
+GME: Buy
+MTZ: Buy
+GLDD: Buy
+LPX: Buy
+SLG: Buy
+TPC: Buy
+EXTR: Buy
+LMAT: Buy
+MIND: Buy
+RAND: Buy
+TTMI: Buy
+RL: Buy
+EGBN: Buy
+NVDA: Buy
+SFST: Buy
+ZBRA: Buy
+LAZ: Buy
+ABCB: Buy
+AIT: Buy
+CCNE: Buy
+LAKE: Buy
+SALM: Buy
+CNS: Buy
+CART: Buy
+DEI: Buy
+PDM: Buy
+TSM: Buy
+CPSS: Buy
+INCY: Buy
 MTSI: Buy
 SEAC: Buy
-AIT: Buy
-CAKE: Buy
-CART: Buy
-AXP: Buy
-CNX: Buy
-FLS: Buy
-EWBC: Buy
-TCBI: Buy
-FBNC: Buy
-GTLS: Buy
-KEQU: Buy
-RFIL: Buy
-VICR: Buy
-BHE: Buy
+BDC: Buy
+MAC: Buy
 PFS: Buy
-ADUS: Buy
-COF: Buy
-BELFA: Buy
-CCNE: Buy
-CFBK: Buy
-GDOT: Buy
-CNOB: Buy
-FSBW: Buy
-AAT: Buy
-CCOI: Buy
-VNET: Buy
-NRG: Buy
-PWR: Buy
-CRESY: Buy
-KRNY: Buy
-DY: Buy
-GNRC: Buy
-WBS: Buy
-MIND: Buy
-WASH: Buy
-BXP: Buy
-CMA: Buy
-FFIC: Buy
-NFBK: Buy
-SRDX: Buy
-UG: Buy
-FCBC: Buy
-FOSL: Buy
-FULT: Buy
-SFNC: Buy
-KIM: Buy
+RRTS: Buy
+BELFB: Buy
+EME: Buy
+INFY: Buy
 LXFR: Buy
-LZB: Buy
-TG: Buy
-THC: Buy
-BOTJ: Buy
-CECO: Buy
-FFBC: Buy
-FITB: Buy
+ANGO: Buy
+BELFA: Buy
+BV: Buy
+CFBK: Buy
+LYTS: Buy
+XPO: Buy
+CCOI: Buy
+NATL: Buy
+AYI: Buy
+CIZN: Buy
+QNST: Buy
+WEYS: Buy
+CNX: Buy
+DNB: Buy
+IHG: Buy
+ADUS: Buy
+ASUR: Buy
+BYFC: Buy
+CHCI: Buy
+CHEF: Buy
+KRNY: Buy
+NFBK: Buy
+MOD: Buy
+PKG: Buy
+PNR: Buy
+BLIN: Buy
+FCNCA: Buy
+FFIC: Buy
+PCYO: Buy
+UG: Buy
+FLS: Buy
+FSBW: Buy
+ILMN: Buy
+SFNC: Buy
+ETH: Buy
+FLR: Buy
+HIMX: Buy
 PKBK: Buy
-MTEX: Buy
-CDE: Buy
-FCF: Buy
-KEY: Buy
-SRE: Buy
-FIBK: Buy
-EVC: Buy
-TEVA: Buy
-FLIC: Buy
-PRGS: Buy
+PLCE: Buy
+YY: Buy
+BHE: Buy
+CVBF: Buy
+FCBC: Buy
 TBNK: Buy
-BDN: Buy
-KAI: Buy
-SAH: Buy
-KTCC: Buy
-SUPN: Buy
-NTAP: Buy
-RNA: Buy
-UFPT: Buy
-BRFS: Buy
-OII: Buy
-NWBI: Buy
-SALM: Buy
-MAR: Buy
-NGS: Buy
-BCBP: Buy
-OCFC: Buy
-PESI: Buy
-RDCM: Buy
-OSIS: Buy
-OVLY: Buy
-SBGI: Buy
-HIW: Buy
-HNI: Buy
-KRC: Buy
-KRG: Buy
-PRLB: Buy
+TIGR: Buy
+BMI: Buy
+NBHC: Buy
+RF: Buy
+TEVA: Buy
+CRESY: Buy
+AAT: Buy
+ACN: Buy
+MATX: Buy
 UA: Buy
-AMBI: Buy
-APOG: Buy
+MANH: Buy
+OCC: Buy
+SGRP: Buy
+HURC: Buy
+PRGS: Buy
+VALU: Buy
+CRM: Buy
+MAR: Buy
+FIBK: Buy
+WASH: Buy
+BDN: Buy
+GNRC: Buy
+INBK: Buy
+TRST: Buy
+BXP: Buy
+IT: Buy
+PWR: Buy
+S: Buy
+SRE: Buy
+AGIO: Buy
+CG: Buy
+JBLU: Buy
+RDCM: Buy
+DY: Buy
+ENR: Buy
+ECPG: Buy
+MDRX: Buy
+OCFC: Buy
+UFPT: Buy
+THC: Buy
+CPIX: Buy
+NWBI: Buy
+RCMT: Buy
+TOL: Buy
+AROW: Buy
+OVLY: Buy
+SHOO: Buy
 WAFD: Buy
 ABM: Buy
-ENR: Buy
-FSS: Buy
-MHO: Buy
-ACNB: Buy
-HIMX: Buy
+CYH: Buy
+HNI: Buy
+IVZ: Buy
 SBSI: Buy
-VALU: Buy
-ACM: Buy
-FENG: Buy
-SOL: Buy
-AROW: Buy
-ACN: Buy
-DVA: Buy
-TE: Buy
-PPBI: Buy
-RCMT: Buy
-CALX: Buy
-FNB: Buy
-HPQ: Buy
-RCS: Buy
-CYAN: Buy
-ELTK: Buy
-SYPR: Buy
-GWW: Buy
-BANC: Buy
-UBSI: Buy
-FBP: Buy
-IT: Buy
-AEHR: Buy
-PKOH: Buy
-EXP: Buy
-EXP: Buy
-LOW: Buy
-TMHC: Buy
-ENSG: Buy
-GIII: Buy
-HRB: Buy
-MCY: Buy
+BIP: Buy
 CARV: Buy
-HUBG: Buy
-FUN: Buy
-INN: Buy
-UHS: Buy
-DGII: Buy
-PETS: Buy
-PSCD: Buy
-UHAL: Buy
-DKS: Buy
-HOV: Buy
-KB: Buy
+SYPR: Buy
+FSS: Buy
+KNX: Buy
+RCS: Buy
+EGHT: Buy
+NVMI: Buy
+PESI: Buy
+GWW: Buy
+HIW: Buy
+MHO: Buy
+URI: Buy
+FMNB: Buy
 GYRO: Buy
-LAMR: Buy
-SCSC: Buy
-UNB: Buy
-GM: Buy
-MANU: Buy
-PSA: Buy
-REFR: Buy
-CF: Buy
-NVR: Buy
-ASRV: Buy
-AIB: Buy
-CTS: Buy
-NU: Buy
-PHG: Buy
-RNR: Buy
-DXYN: Buy
-GERN: Buy
-PLUS: Buy
-TLF: Buy
-TTEK: Buy
+NTAP: Buy
+UBSI: Buy
 EPAM: Buy
-EXR: Buy
+KRG: Buy
+BCBP: Buy
+FNB: Buy
+KRC: Buy
+LEE: Buy
+LOW: Buy
+XIN: Buy
+LKFN: Buy
+UHAL: Buy
+AEHR: Buy
+ELTK: Buy
+CF: Buy
+INN: Buy
+KMX: Buy
+MCY: Buy
+PSA: Buy
+TMHC: Buy
+CFFN: Buy
+AIB: Buy
+BRFS: Buy
+HPQ: Buy
+PRE: Buy
+RNR: Buy
+PHG: Buy
+PETS: Buy
+AP: Buy
 SBH: Buy
+TE: Buy
+ASRV: Buy
+CYAN: Buy
+HUBG: Buy
+PKOH: Buy
+WINA: Buy
+DKS: Buy
+GDOT: Buy
+MEI: Buy
+OC: Buy
+SHO: Buy
+LULU: Buy
+PSCD: Buy
+CWH: Buy
+HRB: Buy
+KW: Buy
+MHK: Buy
+NVR: Buy
+SMG: Buy
+AMBI: Buy
+FSTR: Buy
+ROST: Buy
+SCSC: Buy
+ZUMZ: Buy
+EXR: Buy
+LMT: Buy
 EXPO: Buy
 MLNK: Buy
-MTRX: Buy
-NVMI: Buy
-SNCR: Buy
-STX: Buy
-DLX: Buy
-RWT: Buy
+NWFL: Buy
+DDS: Buy
+H: Buy
+GLBZ: Buy
+GRFS: Buy
+CYD: Buy
+DHX: Buy
 SKX: Buy
+THO: Buy
+UHS: Buy
+BEAT: Buy
+CTRN: Buy
+OPHC: Buy
+RICK: Buy
+CACI: Buy
+CTS: Buy
+FENG: Buy
+FUN: Buy
+PLOW: Buy
+RWT: Buy
+HLIT: Buy
+SAIA: Buy
 BUSE: Buy
 NEWT: Buy
-PSCT: Buy
-TXN: Buy
-AA: Buy
-PRE: Buy
-SMG: Buy
+ROYL: Buy
+WDFC: Buy
 BLKB: Buy
-EXAS: Buy
-NWFL: Buy
-CAT: Buy
-HZO: Buy
-NMM: Buy
-EMKR: Buy
-GLBZ: Buy
 HTLD: Buy
-VIRC: Buy
-EFX: Buy
-KBH: Buy
-MLP: Buy
-PHM: Buy
-OPHC: Buy
-TPH: Buy
-BJRI: Buy
-GENC: Buy
 PAMT: Buy
-APAM: Buy
-BZH: Buy
-DDS: Buy
-HBM: Buy
-PCG: Buy
-PLOW: Buy
-SHG: Buy
-CLFD: Buy
-FORD: Buy
-LMT: Buy
-WERN: Buy
-BCO: Buy
-CBT: Buy
-IR: Buy
-KMT: Buy
-UFI: Buy
-QDEL: Buy
-UFPI: Buy
-CCO: Buy
-CSL: Buy
-SMP: Buy
-SPB: Buy
-CRUS: Buy
-CUBI: Buy
-ERIE: Buy
-BXC: Buy
-NVAX: Buy
-ODFL: Buy
-TECH: Buy
-TROW: Buy
-AHH: Buy
-AP: Buy
-DHI: Buy
-MTH: Buy
-IMMR: Buy
-JBHT: Buy
-LFUS: Buy
-CUBE: Buy
-DRH: Buy
-HL: Buy
+STX: Buy
+TLF: Buy
+COO: Buy
+EFX: Buy
+ETN: Buy
+FDX: Buy
+KBH: Buy
 LVS: Buy
-RHI: Buy
-EIX: Buy
-MBI: Buy
-NEM: Buy
-ESEA: Buy
-MEOH: Buy
+MRC: Buy
+PLUS: Buy
+QDEL: Buy
+ARL: Buy
+HZO: Buy
+LSE: Buy
+NU: Buy
+PHM: Buy
+JBHT: Buy
+ANF: Buy
+MLP: Buy
+UFI: Buy
+DLX: Buy
+IGR: Buy
+IR: Buy
+NMM: Buy
+PCG: Buy
+SHG: Buy
+TER: Buy
+TWN: Buy
+SLAB: Buy
+AA: Buy
+CUBI: Buy
+ODFL: Buy
+SUNS: Buy
+TTEK: Buy
+KEX: Buy
+FORD: Buy
 NTWK: Buy
-CRS: Hold
+AMRC: Buy
+MATW: Buy
+CLFD: Buy
+KINS: Hold
 AXGN: Hold
-NBN: Hold
-ACFN: Hold
-TDS: Hold
-BSPM: Hold
-UNTY: Hold
-BANR: Hold
-BMRC: Hold
-LRN: Hold
-PODD: Hold
-CPF: Hold
 SE: Hold
-STRT: Hold
-ACIW: Hold
-FTNT: Hold
-SATS: Hold
-FBMS: Hold
-JLL: Hold
-EXLS: Hold
 PBI: Hold
-FFIV: Hold
-STT: Hold
-CRVL: Hold
-NFLX: Hold
-RBCAA: Hold
-USM: Hold
-CPRX: Hold
-NBTB: Hold
-BTO: Hold
-CM: Hold
-TYL: Hold
-AAPL: Hold
-BHLB: Hold
-CFR: Hold
-BRKL: Hold
+UBOH: Hold
+JLL: Hold
 DORM: Hold
-AMP: Hold
-HFWA: Hold
-NDAQ: Hold
-OSBC: Hold
-BLK: Hold
-CNO: Hold
-RJF: Hold
-HCKT: Hold
-JPM: Hold
-CCBG: Hold
-WTBA: Hold
-PB: Hold
-SAP: Hold
-NTRS: Hold
-PH: Hold
-COST: Hold
-MMSI: Hold
-AWI: Hold
-BYD: Hold
-IHG: Hold
-WAB: Hold
-CBSH: Hold
-FARO: Hold
-GRMN: Hold
-SANM: Hold
-G: Hold
-MCO: Hold
-PANW: Hold
-MCHX: Hold
-APD: Hold
-BSX: Hold
-SKT: Hold
-CHTR: Hold
 EMITF: Hold
-SKY: Hold
-UNM: Hold
-LPLA: Hold
+MCHX: Hold
+ERIC: Hold
+EXEL: Hold
+AXP: Hold
+NFLX: Hold
+ETR: Hold
+LZB: Hold
+OFIX: Hold
+PLBC: Hold
 ROIC: Hold
-MFC: Hold
-SPG: Hold
-RDWR: Hold
-RY: Hold
-AMZN: Hold
-EQIX: Hold
-MASI: Hold
-PROV: Hold
-PSCF: Hold
-CVCO: Hold
-SBUX: Hold
-BCS: Hold
-PNQI: Hold
-VONG: Hold
-ONEQ: Hold
-SBCF: Hold
-SSNC: Hold
-TRMB: Hold
-AFL: Hold
-MTG: Hold
-CRAI: Hold
-SPBC: Hold
-SFY: Hold
-CSCO: Hold
-PFBC: Hold
-SLM: Hold
-CFB: Hold
-ESE: Hold
-MSCI: Hold
-PFSI: Hold
-PRI: Hold
-UNF: Hold
-VTWG: Hold
-AMG: Hold
-ESSA: Hold
-HSTM: Hold
-MELI: Hold
-QQQ: Hold
-EOS: Hold
-MET: Hold
-PM: Hold
-PSO: Hold
-AIQ: Hold
-BPOP: Hold
-LOPE: Hold
-RPM: Hold
-EBMT: Hold
+COST: Hold
+GILD: Hold
+MRCY: Hold
+SKY: Hold
+CFNB: Hold
+PRLB: Hold
+FFIN: Hold
+PATK: Hold
 MCRI: Hold
-NATH: Hold
-NWS: Hold
-PRFZ: Hold
-GNW: Hold
-NPV: Hold
-SCD: Hold
-BOSC: Hold
-CHMG: Hold
-PEBO: Hold
-VONE: Hold
-VTHR: Hold
-VTWO: Hold
-EMR: Hold
-EOI: Hold
-TDIV: Hold
-AN: Hold
-BLX: Hold
+ESE: Hold
+CFB: Hold
+CASY: Hold
+VONG: Hold
+CR: Hold
+SFY: Hold
+SHW: Hold
+ONEQ: Hold
+AZZ: Hold
 CLX: Hold
-MA: Hold
-NCZ: Hold
-NPO: Hold
-ORI: Hold
-CSQ: Hold
-DOV: Hold
-HEI: Hold
-CGO: Hold
-HURN: Hold
-MRCC: Hold
-QQQX: Hold
-AMID: Hold
-BR: Hold
-RMT: Hold
-HERO: Hold
-KOOL: Hold
-PFBX: Hold
-TTWO: Hold
-VTWV: Hold
-BNS: Hold
-ETY: Hold
-JCE: Hold
-JWN: Hold
-LH: Hold
-NCV: Hold
-NIE: Hold
-IMCB: Hold
 CSGS: Hold
-AJG: Hold
-FAF: Hold
-LNC: Hold
-GLRE: Hold
-NASB: Hold
-TIPT: Hold
-ETB: Hold
-ETJ: Hold
-ETV: Hold
-FFA: Hold
-GAM: Hold
-RLI: Hold
-SYK: Hold
-CZNC: Hold
-DGRW: Hold
+NPO: Hold
+QQQ: Hold
+TXRH: Hold
+BH: Hold
+TPX: Hold
+QQQX: Hold
+SGI: Hold
+OGE: Hold
+HERO: Hold
+VONE: Hold
+GOOG: Hold
+MAA: Hold
+MO: Hold
+BPOP: Hold
+DGX: Hold
 MCBK: Hold
+ETV: Hold
+FT: Hold
+NIE: Hold
+PNW: Hold
+SO: Hold
+SMPL: Hold
+CAT: Hold
+JPC: Hold
+KMPR: Hold
 NWSA: Hold
-QLTY: Hold
-GDV: Hold
-AWAY: Hold
-ACT: Hold
-SNX: Hold
-ACWI: Hold
-PSTR: Hold
-VONV: Hold
-ADX: Hold
-BGH: Hold
-CHN: Hold
-HTGC: Hold
-MKL: Hold
+GK: Hold
+AWR: Hold
+HIG: Hold
 TY: Hold
-UGI: Hold
-GILT: Hold
-ITRN: Hold
-DHF: Hold
-NAZ: Hold
-NNI: Hold
-RNP: Hold
-QQEW: Hold
-AB: Hold
-BOE: Hold
-ADI: Hold
-BCPC: Hold
-CHY: Hold
-QTEC: Hold
-ARDC: Hold
-HMN: Hold
-PRU: Hold
-SPLP: Hold
-SR: Hold
-CHW: Hold
-GRID: Hold
-HFBL: Hold
-IPAR: Hold
-TFSL: Hold
-WWD: Hold
-AIV: Hold
+UL: Hold
+AWAY: Hold
 CCZ: Hold
-EVT: Hold
-USA: Hold
-HDB: Hold
-MGRC: Hold
+EZPW: Hold
+STC: Hold
+FCAP: Hold
+POST: Hold
+LOAN: Hold
+ESGR: Hold
+GOODO: Hold
+ALE: Hold
 AOD: Hold
-FR: Hold
-HPI: Hold
-JPI: Hold
-BMO: Hold
-ETW: Hold
-LDP: Hold
-LGI: Hold
-MHI: Hold
-NMT: Hold
-ACAD: Hold
-FPF: Hold
-LLY: Hold
-PGP: Hold
-AAXJ: Hold
-SOCL: Hold
-BGB: Hold
-CXE: Hold
-ETG: Hold
-ETO: Hold
-KSM: Hold
-NAN: Hold
-PHT: Hold
-DHIL: Hold
-EEMA: Hold
-KWEB: Hold
-AZO: Hold
-BNJ: Hold
 CB: Hold
-EGF: Hold
-IDE: Hold
-KTF: Hold
+CXE: Hold
+DNP: Hold
+DRH: Hold
+DTE: Hold
+EOD: Hold
+FE: Hold
+FPF: Hold
+FRA: Hold
+GOF: Hold
+HCI: Hold
+LGI: Hold
 MFM: Hold
-MUA: Hold
-O: Hold
-PSF: Hold
-TEL: Hold
-TKC: Hold
-TRNO: Hold
-ASIA: Hold
-MDIV: Hold
-SBAC: Hold
-AFB: Hold
-DKL: Hold
-EFC: Hold
-KEM: Hold
-LEO: Hold
 MKC: Hold
-NXP: Hold
-PAA: Hold
-PAI: Hold
-ROL: Hold
-DGICA: Hold
-IBB: Hold
-JKHY: Hold
-MAT: Hold
+NWE: Hold
+PHT: Hold
+SCHW: Hold
+USA: Hold
+UVV: Hold
+AAXJ: Hold
+DSWL: Hold
+DVAX: Hold
+PDCO: Hold
 SLRC: Hold
+WWD: Hold
+ABBV: Hold
+AEF: Hold
+BNJ: Hold
+EMD: Hold
+ETO: Hold
+EVG: Hold
+GPK: Hold
+GRX: Hold
+IPI: Hold
+KEM: Hold
+MITT: Hold
+NXP: Hold
+O: Hold
+PGP: Hold
+PLD: Hold
+PMO: Hold
+PRU: Hold
+DHIL: Hold
+EA: Hold
+HFBL: Hold
+LBAI: Hold
+ADT: Hold
+AHT-PD: Hold
+ARP: Hold
 BGX: Hold
-EOT: Hold
+CNP: Hold
+CPAC: Hold
+DIS: Hold
+EBF: Hold
+EFC: Hold
+ETG: Hold
+EXC: Hold
+HQL: Hold
+IDE: Hold
+IGD: Hold
 IIM: Hold
 IQI: Hold
-MHD: Hold
-NL: Hold
+JLS: Hold
+JNPR: Hold
+JQC: Hold
+KTF: Hold
+MUE: Hold
+NBB: Hold
 PG: Hold
+ROL: Hold
+SOR: Hold
+SUI: Hold
+TDF: Hold
+ZTS: Hold
+ANSS: Hold
+ASIA: Hold
+EEMA: Hold
+FELE: Hold
+MDIV: Hold
+OVBC: Hold
+AFB: Hold
+BCH: Hold
+BLW: Hold
+CAF: Hold
+CIF: Hold
+CNH: Hold
+DSM: Hold
+DTF: Hold
+DX: Hold
+EOT: Hold
+EV: Hold
+EVN: Hold
+HYI: Hold
+LEO: Hold
+MGR: Hold
+MHD: Hold
+MUA: Hold
+NAC: Hold
+NOC: Hold
+PAI: Hold
+PCN: Hold
+SNY: Hold
+TR: Hold
+AGNCP: Hold
+DGICB: Hold
+IBB: Hold
+ISRL: Hold
+QGEN: Hold
+SILC: Hold
+DMB: Hold
+DOX: Hold
+EXG: Hold
+GGG: Hold
+HPF: Hold
+MIY: Hold
+MMU: Hold
+PAA: Hold
+PHK: Hold
+PIM: Hold
+PMF: Hold
+PML: Hold
 PMM: Hold
 SXT: Hold
 TDG: Hold
 TS: Hold
-HBANP: Hold
-LBAI: Hold
-PEBK: Hold
-AMH: Hold
-BRT: Hold
-CAS: Hold
-EGO: Hold
-EV: Hold
-EVN: Hold
-GPK: Hold
-JLS: Hold
-MDT: Hold
-MGR: Hold
-MHF: Hold
-MMU: Hold
-NAC: Hold
-NOC: Hold
-NVS: Hold
-ORA: Hold
-PFX: Hold
-PLD: Hold
-PML: Hold
-AGNCP: Hold
-ALCO: Hold
-UTSI: Hold
-ARB: Hold
-AVA: Hold
+CCIX: Hold
+GLDI: Hold
+HCSG: Hold
+MGIC: Hold
+OXLCO: Hold
+SAFT: Hold
 BTA: Hold
-CPAC: Hold
-DOX: Hold
-ENS: Hold
-EOG: Hold
-HIO: Hold
-JHS: Hold
-JQC: Hold
-KO: Hold
-MVT: Hold
+BTZ: Hold
+DB: Hold
+EGP: Hold
+EMF: Hold
+FID: Hold
+LLY: Hold
+MG: Hold
+MHF: Hold
+NEM: Hold
+NL: Hold
 NUV: Hold
-PCQ: Hold
+ORA: Hold
 PFN: Hold
 PGZ: Hold
-PHK: Hold
-PMF: Hold
-PMX: Hold
-POR: Hold
-PTY: Hold
-CCIX: Hold
-FELE: Hold
-GLDI: Hold
-HYLS: Hold
-ISRL: Hold
-MSEX: Hold
-ABBV: Hold
-AHT-PD: Hold
-BHK: Hold
-DAC: Hold
-EBF: Hold
-ENJ: Hold
-FID: Hold
-GDL: Hold
-HYT: Hold
-KIO: Hold
-KTH: Hold
-LYG: Hold
-MCR: Hold
-MHN: Hold
-MIN: Hold
-MIY: Hold
-MMT: Hold
-MQT: Hold
-MUJ: Hold
-MYI: Hold
-NMI: Hold
-NUW: Hold
-PNF: Hold
 PPT: Hold
-PYN: Hold
+PTY: Hold
 SWZ: Hold
-TDF: Hold
+TMH: Hold
 TVC: Hold
 TVE: Hold
 UNP: Hold
-VBF: Hold
-YELP: Hold
-BNDX: Hold
-CSRE: Hold
-JIVE: Hold
-MPAA: Hold
+ALCO: Hold
+CARZ: Hold
+EUFN: Hold
+HBANP: Hold
+HYLS: Hold
 OXLC: Hold
-OXLCO: Hold
-OXLCP: Hold
 QLTI: Hold
-SAFT: Hold
-SILC: Hold
-AEG: Hold
-BFK: Hold
-BSL: Hold
-DMO: Hold
+AVA: Hold
+BHK: Hold
+BTT: Hold
+DRD: Hold
 DSL: Hold
-EARN: Hold
-EMC: Hold
-FCT: Hold
-HCI: Hold
-HTH: Hold
-MIG: Hold
-MQY: Hold
-ODC: Hold
-PCF: Hold
+ENJ: Hold
+JFR: Hold
+JHS: Hold
+LYG: Hold
+MCR: Hold
+MMT: Hold
+MQT: Hold
+MUJ: Hold
+MYD: Hold
+NMI: Hold
+NUW: Hold
 PCK: Hold
-SBR: Hold
-SNY: Hold
-SPR: Hold
-TR: Hold
+PCQ: Hold
+PFG: Hold
+PFL: Hold
+PMX: Hold
+SYY: Hold
+TEL: Hold
+VBF: Hold
+BNDX: Hold
+CPSL: Hold
+CPST: Hold
+KCLI: Hold
+LOGI: Hold
+MFLX: Hold
+AVK: Hold
+DKL: Hold
+DMO: Hold
+FCT: Hold
+FMN: Hold
+GAB: Hold
+GJT: Hold
+KTH: Hold
+MCK: Hold
+MIG: Hold
+MUC: Hold
+MVT: Hold
+MYI: Hold
+PHD: Hold
+PYN: Hold
 AGNC: Hold
 EMCB: Hold
+FFNW: Hold
+JIVE: Hold
+MBND: Hold
+MSFT: Hold
 NURO: Hold
-PDCO: Hold
+PEBK: Hold
+PLPC: Hold
 SIFI: Hold
 UBCP: Hold
 VCIT: Hold
-VWOB: Hold
-AMT: Hold
-BGR: Hold
-BGY: Hold
-CL: Hold
-GGG: Hold
-JBK: Hold
-MCK: Hold
-MUC: Hold
-NXC: Hold
-NXN: Hold
-PNI: Hold
-PYT: Hold
-SMI: Hold
-FFNW: Hold
-GSIG: Hold
-HCSG: Hold
-VCSH: Hold
-VNQI: Hold
+VRTX: Hold
 VTIP: Hold
-WVFC: Hold
+VWOB: Hold
+AWK: Hold
+BFK: Hold
 BKT: Hold
-BNY: Hold
-BWG: Hold
-CNH: Hold
-CYD: Hold
+BYM: Hold
+CIG: Hold
+CUB: Hold
+ENS: Hold
+HASI: Hold
+HTH: Hold
+IAE: Hold
+LIN: Hold
+MHN: Hold
+MQY: Hold
+NIM: Hold
+NXC: Hold
+OIS: Hold
+PNF: Hold
+PNI: Hold
+ROP: Hold
+SMI: Hold
+ACWX: Hold
+CA: Hold
+CSRE: Hold
+DMLP: Hold
+VGSH: Hold
+VMBS: Hold
+VXUS: Hold
+WSTL: Hold
+ACTV: Hold
+BGY: Hold
+BME: Hold
+DSU: Hold
+EMC: Hold
+EOG: Hold
 FMY: Hold
-HIX: Hold
+KIO: Hold
+NLY: Hold
 NNN: Hold
-OIA: Hold
+NNY: Hold
+NXN: Hold
 PDI: Hold
+PULS: Hold
+SBR: Hold
+STAG: Hold
+STE: Hold
 STWD: Hold
 TSN: Hold
-CA: Hold
-CPIX: Hold
-DXJS: Hold
+BPOPM: Hold
+FUND: Hold
 GNMA: Hold
 JADE: Hold
-MBND: Hold
-RGCO: Hold
+PCH: Hold
 VCLT: Hold
-VRTX: Hold
-AWK: Hold
-BCH: Hold
-BCX: Hold
-COR: Hold
-DSU: Hold
-DUKH: Hold
-GJP: Hold
-GJS: Hold
-KTN: Hold
-MGF: Hold
-MPA: Hold
-NC: Hold
-NIM: Hold
-NLY: Hold
-NMR: Hold
-NQP: Hold
-PEO: Hold
-SBS: Hold
-SWX: Hold
-SYY: Hold
-BANFP: Hold
-CALI: Hold
+VGIT: Hold
+VNQI: Hold
+XONE: Hold
+BSPM: Hold
+MRGE: Hold
+RAIL: Hold
 SGMO: Hold
-GEVO: Hold
-DMRC: Hold
 CAN: Hold
-GCI: Hold
+DMRC: Hold
 TZOO: Hold
-SQNS: Hold
-RH: Hold
-AMSC: Hold
-KINS: Hold
-USEG: Hold
-LPTH: Hold
-UIS: Hold
-ALGT: Hold
-ATLC: Hold
-OB: Hold
-CLS: Hold
-NGVC: Hold
-CIEN: Hold
-AOSL: Hold
-MCS: Hold
-PEGA: Hold
-EVR: Hold
-CUK: Hold
-DAVE: Hold
-SFM: Hold
-KKR: Hold
-NCLH: Hold
-LTBR: Hold
-IBKR: Hold
-DAKT: Hold
-AGYS: Hold
-SN: Hold
-DAL: Hold
-PLXS: Hold
-ALK: Hold
-GME: Hold
-CHCI: Hold
-TQQQ: Hold
-Z: Hold
-PX: Hold
-SKYW: Hold
-TATT: Hold
-DECK: Hold
-ICUI: Hold
-RCON: Hold
-AI: Hold
-NWPX: Hold
-PLCE: Hold
-ISSC: Hold
-NRIM: Hold
-COLB: Hold
-CVLT: Hold
-LTRE: Hold
-ZBRA: Hold
-SGRP: Hold
-EXPE: Hold
-LQDT: Hold
-ETH: Hold
-LAD: Hold
-QUAD: Hold
-FCCO: Hold
-HAFC: Hold
-TTMI: Hold
-DNB: Hold
-LYV: Hold
-TEO: Hold
-DXPE: Hold
-ISRG: Hold
-JAKK: Hold
-LPX: Hold
-SF: Hold
-AVGO: Hold
-EXTR: Hold
-ABCB: Hold
-ATRC: Hold
-ENZN: Hold
-NATL: Hold
-QNST: Hold
-FLR: Hold
-MS: Hold
-EME: Hold
-GS: Hold
-CEVA: Hold
-FLEX: Hold
-GBCI: Hold
-MTB: Hold
-LAZ: Hold
-LWAY: Hold
-ZION: Hold
-TPC: Hold
-TSM: Hold
-ICAD: Hold
-RL: Hold
-ADSK: Hold
-MAGS: Hold
-MANH: Hold
-SKYY: Hold
-WTFC: Hold
-BDC: Hold
-ECPG: Hold
-OCC: Hold
-AYI: Hold
-CYH: Hold
-PNR: Hold
-XPO: Hold
-LYTS: Hold
-INFY: Hold
-CATY: Hold
-ZUMZ: Hold
-PNC: Hold
-RM: Hold
-LAKE: Hold
-TRAK: Hold
-RF: Hold
-CG: Hold
-INBK: Hold
-PKG: Hold
-AGIO: Hold
-PENN: Hold
-HBAN: Hold
-PCYO: Hold
-WEYS: Hold
-NBHC: Hold
-S: Hold
-BYFC: Hold
+ANTH: Hold
 JVA: Hold
-DLR: Hold
-CVBF: Hold
-DSGX: Hold
-SHOO: Hold
-CLH: Hold
-MEI: Hold
-TOL: Hold
-CHEF: Hold
-MLAB: Hold
-MATX: Hold
-BLIN: Hold
-TRST: Hold
-CRM: Hold
+NEON: Hold
+LFVN: Hold
+WOOF: Hold
+INOD: Hold
+AMSC: Hold
+ALGT: Hold
+UNFI: Hold
+FWRD: Hold
+KOSS: Hold
+CRNT: Hold
+OB: Hold
+MSTR: Hold
+AAON: Hold
+LPSN: Hold
+UIS: Hold
+CNTY: Hold
+FOSL: Hold
+ALK: Hold
+CUK: Hold
+BMA: Hold
+CCL: Hold
+AMBA: Hold
+EHTH: Hold
+PAY: Hold
+MNOV: Hold
+LMNR: Hold
+TSEM: Hold
+TQQQ: Hold
+GAIA: Hold
+LTRE: Hold
+HWKN: Hold
+MTEX: Hold
+NWL: Hold
+ORCL: Hold
+IRBT: Hold
+KAI: Hold
 GBX: Hold
-BIO: Hold
-URI: Hold
-USB: Hold
-NEO: Hold
-XOMA: Hold
-BIP: Hold
-AVAV: Hold
-HURC: Hold
-JBL: Hold
-IVZ: Hold
-C: Hold
-MDRX: Hold
-ANF: Hold
-SEM: Hold
+DLR: Hold
+NGS: Hold
+RNA: Hold
+PENN: Hold
+CECO: Hold
+PPBI: Hold
+SXI: Hold
+TKC: Hold
 AEIS: Hold
-EGHT: Hold
-JBLU: Hold
-BGC: Hold
-APH: Hold
-OC: Hold
-RRTS: Hold
-MORN: Hold
-PSCI: Hold
-WINA: Hold
-KMX: Hold
-KNX: Hold
-CFFN: Hold
-CWH: Hold
-KW: Hold
-ELSE: Hold
-FNLC: Hold
-ATI: Hold
-CIM: Hold
-RGA: Hold
-FSTR: Hold
-GOOG: Hold
-ASG: Hold
-CCJ: Hold
-MHK: Hold
-TER: Hold
-THO: Hold
-NTCT: Hold
-SGI: Hold
-MRC: Hold
-SHO: Hold
-XIN: Hold
-BH: Hold
-MCI: Hold
-ROST: Hold
-SPSC: Hold
-CBZ: Hold
-COO: Hold
-H: Hold
-IIF: Hold
-UNH: Hold
-KEX: Hold
-GRFS: Hold
-ETN: Hold
-CWBC: Hold
-SAIA: Hold
-LTRX: Hold
-RICK: Hold
-TWN: Hold
-BEAT: Hold
-CTRN: Hold
-HLIT: Hold
-CHDN: Hold
-LULU: Hold
-SUNS: Hold
-STK: Hold
-ASYS: Hold
-CZR: Hold
-DHX: Hold
-ARAY: Hold
-PERF: Hold
-IGR: Hold
-FDX: Hold
-A: Hold
-NSTG: Hold
-PSCM: Hold
-QCLN: Hold
-SLAB: Hold
-SEE: Hold
-CDNS: Hold
+GIII: Hold
+APOG: Hold
+AVAV: Hold
+BANC: Hold
+NEO: Hold
+APWC: Hold
+EXP: Hold
+EXP: Hold
 KOPN: Hold
+REFR: Hold
+BEAM: Hold
+ATI: Hold
+ERIE: Hold
+MANU: Hold
+ABR: Hold
+SMP: Hold
+ARAY: Hold
+SPB: Hold
+SRPT: Hold
+ESEA: Hold
+EXAS: Hold
+BZH: Hold
+CBT: Hold
+CLB: Hold
+HL: Hold
+MBI: Hold
+TPH: Hold
+UFPI: Hold
+VIRC: Hold
+BCO: Hold
+HOV: Hold
+KMT: Hold
+SEE: Hold
+LTRX: Hold
+TROW: Hold
+BXC: Hold
+DDD: Hold
 EMN: Hold
-HASI: Hold
-LSE: Hold
-RHP: Hold
-CERS: Hold
-JJSF: Hold
-UEIC: Hold
-HCA: Hold
-KFS: Hold
-ADBE: Hold
-CMRE: Hold
-OMC: Hold
-SWK: Hold
-THS: Hold
-AKAM: Hold
-BIB: Hold
-ESPR: Hold
-GCBC: Hold
-KNOP: Hold
-OIS: Hold
-FSLR: Hold
-HOLX: Hold
-TREE: Hold
-FC: Hold
-SAM: Hold
-SCS: Hold
-BLDR: Hold
-ROYL: Hold
-SOXX: Hold
-IEX: Hold
-SXC: Hold
-CVGW: Hold
-LSTR: Hold
-NVEC: Hold
-TACT: Hold
-BTU: Hold
-CLDT: Hold
+RHI: Hold
+CZR: Hold
+PSCM: Hold
+SPSC: Hold
+TECH: Hold
+A: Hold
+CUBE: Hold
 CBRL: Hold
+CHDN: Hold
+CRUS: Hold
+GCBC: Hold
+IMMR: Hold
+PERF: Hold
+CSL: Hold
+GEF: Hold
+LFUS: Hold
+DHI: Hold
+MTH: Hold
+THS: Hold
+TTI: Hold
+GENC: Hold
+MTX: Hold
+SWK: Hold
+SXC: Hold
+BIB: Hold
 CSPI: Hold
-ARL: Hold
-BWA: Hold
-LEN: Hold
-SSD: Hold
-GSIT: Hold
+GTIM: Hold
 PCAR: Hold
-GNE: Hold
-MFA: Hold
-MTD: Hold
-MXL: Hold
-PKE: Hold
-CMCSA: Hold
-HMST: Hold
-MAYS: Hold
-MPWR: Hold
-NKSH: Hold
-AWF: Hold
-EVG: Hold
-EXG: Hold
-JNPR: Hold
-SOR: Hold
-ANSS: Hold
-CIF: Hold
-DSM: Hold
-HPF: Hold
-NBB: Hold
-PCN: Hold
-PMO: Hold
-JAZZ: Hold
-MSFT: Hold
-BLW: Hold
-CAF: Hold
-DMB: Hold
-HYI: Hold
+AHH: Hold
+CLDT: Hold
+CMP: Hold
+EARN: Hold
+HBM: Hold
+LXU: Hold
+SCS: Hold
+MEOH: Hold
+NVAX: Hold
+QCLN: Hold
+CCO: Hold
+NIO: Hold
+AKAM: Hold
+ASYS: Hold
+KLIC: Hold
+UEIC: Hold
+CODI: Hold
+CSX: Hold
+HCA: Hold
+IEX: Hold
+IFF: Hold
+OMC: Hold
+SSD: Hold
+ACGL: Hold
+POOL: Hold
+EGF: Hold
+HEQ: Hold
 AQU: Hold
-CARZ: Hold
-DVAX: Hold
-BTZ: Hold
-DTF: Hold
-EMF: Hold
-PFG: Hold
-PIM: Hold
+MSEX: Hold
+KO: Hold
 TRI: Hold
-AVK: Hold
 DBL: Hold
-GAB: Hold
-HPS: Hold
-INDY: Hold
-DB: Hold
-FMN: Hold
-JFR: Hold
-MYD: Hold
-CPSL: Hold
-CPST: Hold
-EUFN: Hold
-HWAY: Hold
+POR: Hold
+GOODN: Hold
+HYT: Hold
+MIN: Hold
+BSL: Hold
+PCF: Hold
 OFED: Hold
-ACTV: Hold
-BYM: Hold
-IAE: Hold
-PFL: Hold
-DGRE: Hold
-DMLP: Hold
-FUND: Hold
-LOGI: Hold
-MFLX: Hold
-BME: Hold
-BTT: Hold
-PHD: Hold
-ROP: Hold
-ACWX: Hold
-INTU: Hold
-TAX: Hold
-VXUS: Hold
-EGP: Hold
-LIN: Hold
-MYN: Hold
-NNY: Hold
-KCLI: Hold
-EFR: Hold
+CHD: Hold
 EFT: Hold
-HF: Hold
-FTSL: Hold
-INTL: Hold
-OVBC: Hold
-MGIC: Hold
-WSTL: Hold
-IGI: Hold
-SLMBP: Hold
-VGLT: Hold
-SPTN: Hold
-TEF: Hold
-DIS: Sell
-LXU: Sell
-RDY: Sell
-CMG: Sell
-GEF: Sell
-DDD: Sell
-GTIM: Sell
-LOCM: Sell
-BCC: Sell
-MTX: Sell
-TTI: Sell
-KLIC: Sell
-MATW: Sell
-BEAM: Sell
-IFF: Sell
-ACGL: Sell
-GIFI: Sell
-STXS: Sell
-CSX: Sell
-NOAH: Sell
-CMC: Sell
-CODI: Sell
-GPN: Sell
-FL: Sell
-AMWD: Sell
-FLL: Sell
-VRTS: Sell
-PBT: Sell
-BEP: Sell
-MARPS: Sell
-AL: Sell
-BDX: Sell
-CHD: Sell
-DCI: Sell
-DDT: Sell
-FNV: Sell
-GJO: Sell
-IX: Sell
-JNJ: Sell
-KMB: Sell
-PRH: Sell
-SNN: Sell
-TEI: Sell
-GENT: Sell
-GOLD: Sell
-IGLD: Sell
-IGOV: Sell
-PFLT: Sell
-PNNT: Sell
-ULTR: Sell
-BFZ: Sell
-BSAC: Sell
-DRD: Sell
-ETX: Sell
-NCA: Sell
-STE: Sell
-TMO: Sell
+GJS: Hold
+JBK: Hold
+BANFP: Hold
+WVFC: Hold
+BSAC: Hold
+EFR: Hold
+SNN: Hold
+AMT: Hold
+BGT: Hold
+COR: Hold
+GJP: Hold
+HIX: Hold
+KFS: Hold
+MGF: Hold
+SU: Hold
+DXJS: Hold
+ED: Hold
+NC: Hold
+NMR: Hold
+RPRX: Hold
+SPR: Hold
+PFLT: Hold
+IX: Hold
+PNNT: Hold
+HOVNP: Hold
+PFE: Hold
+JJSF: Sell
+RHP: Sell
 CCRN: Sell
-PCH: Sell
-BXMT: Sell
-CIG: Sell
-CWT: Sell
-FIG: Sell
-GBAB: Sell
+LOCM: Sell
+UTSI: Sell
+CMG: Sell
+FC: Sell
+CDNS: Sell
+CMC: Sell
+CNMD: Sell
+HMST: Sell
+ORMP: Sell
+MARPS: Sell
+ARR: Sell
+BNY: Sell
+BWG: Sell
+DDT: Sell
+DUKH: Sell
+ETX: Sell
+EVF: Sell
+IHD: Sell
+KMB: Sell
+KTN: Sell
 LXP: Sell
-PFH: Sell
-STAG: Sell
-TD: Sell
-ISHG: Sell
-AGRO: Sell
-AIR: Sell
+MPA: Sell
+MYN: Sell
+NQP: Sell
+OIA: Sell
+PYT: Sell
+TEI: Sell
+BSET: Sell
+GENT: Sell
+HWAY: Sell
+IGOV: Sell
+INTL: Sell
+NTES: Sell
+ULTR: Sell
+BGR: Sell
+BXMT: Sell
+DAC: Sell
+DCI: Sell
+EDD: Sell
+FNV: Sell
+GBAB: Sell
+GJO: Sell
+MFA: Sell
+PRH: Sell
+RDY: Sell
+SWX: Sell
+YELP: Sell
+DGRE: Sell
+GIFI: Sell
+GOLD: Sell
+INTU: Sell
+RGCO: Sell
+AEG: Sell
+BFZ: Sell
 CHT: Sell
+DLB: Sell
+FIG: Sell
+NCA: Sell
+PKE: Sell
+SBS: Sell
+TDI: Sell
+INDY: Sell
+ISHG: Sell
+PLTM: Sell
+SPTN: Sell
+VGLT: Sell
+WOOD: Sell
+BCX: Sell
+BDX: Sell
+BKN: Sell
+HF: Sell
 JOF: Sell
-MMD: Sell
-PFE: Sell
+PFH: Sell
+RRC: Sell
+DRIV: Sell
+EXPD: Sell
+IGLD: Sell
+SLMBP: Sell
+SLVO: Sell
+AGRO: Sell
+BIT: Sell
 PZC: Sell
 STN: Sell
-UAN: Sell
-XOM: Sell
-EXPD: Sell
-IFGL: Sell
-JSM: Sell
-PLTM: Sell
-DLB: Sell
-TRC: Sell
-USAC: Sell
-AMED: Sell
-BSET: Sell
-EMIF: Sell
-GAIN: Sell
-HCOM: Sell
-RPRX: Sell
-BIT: Sell
-CVX: Sell
-EHI: Sell
-SAN: Sell
-SPH: Sell
-AMGN: Sell
-CMRX: Sell
-SLVO: Sell
-ALX: Sell
-CIB: Sell
-KEP: Sell
-YUM: Sell
-CASS: Sell
-GBDC: Sell
-NXST: Sell
-RS: Sell
-AIG: Sell
-PHI: Sell
 TAP: Sell
-XYL: Sell
+TD: Sell
+TMO: Sell
+TRC: Sell
+AMED: Sell
+CASS: Sell
+HCOM: Sell
+IFGL: Sell
+AIR: Sell
+GNE: Sell
+MMD: Sell
+PEO: Sell
+RS: Sell
+SPH: Sell
+UAN: Sell
+USAC: Sell
+YUM: Sell
+CMCSA: Sell
+RMBS: Sell
+TAX: Sell
+AL: Sell
+EHI: Sell
+TU: Sell
+CVGW: Sell
+GAIN: Sell
+ICCC: Sell
 LANC: Sell
-TRS: Sell
+MAYS: Sell
+TREE: Sell
+EEA: Sell
+LUX: Sell
+SAN: Sell
+TEF: Sell
+AMGN: Sell
+EMIF: Sell
+ACI: Sell
+AIG: Sell
+ALX: Sell
+BEP: Sell
+MCN: Sell
+CUBA: Sell
+MT: Sell
+PHH: Sell
+TAL: Sell
+TWO: Sell
+XYL: Sell
 VOD: Sell
-SJM: Sell
-MEMS: Sell
-NGG: Sell
-CWCO: Sell
+WVVI: Sell
+CVX: Sell
+XOM: Sell
+GBDC: Sell
+GDO: Sell
+JEQ: Sell
+MNST: Sell
+CCI: Sell
+GUT: Sell
 EEFT: Sell
-SJT: Sell
-BIDU: Sell
-CVS: Sell
-RGR: Sell
-BZ: Sell
-DELL: Strong sell
-ICFI: Strong sell
-POOL: Strong sell
-RMBS: Strong sell
-SCVL: Strong sell
-NOA: Strong sell
-NBIX: Strong sell
-NNBR: Strong sell
-STRS: Strong sell
-ULTA: Strong sell
-WDC: Strong sell
-CNMD: Strong sell
-SGC: Strong sell
-FCN: Strong sell
-JKS: Strong sell
-TTC: Strong sell
-EML: Strong sell
-ARW: Strong sell
-KLAC: Strong sell
-STLD: Strong sell
-CCI: Strong sell
-HST: Strong sell
+HRL: Sell
+HTHT: Sell
+HES: Sell
+CSWC: Sell
+III: Sell
+LEDS: Sell
+PBR: Sell
+ATRO: Sell
+BUD: Sell
+PRGO: Sell
+KOF: Sell
+GEL: Sell
+IHS: Sell
+BP: Sell
+GRPN: Sell
+BVN: Sell
+GPN: Strong sell
 JHX: Strong sell
-TINY: Strong sell
-CMP: Strong sell
+BLDR: Strong sell
+LSTR: Strong sell
+NKSH: Strong sell
+SOXX: Strong sell
+NOAH: Strong sell
+SAM: Strong sell
+GSIT: Strong sell
+HOLX: Strong sell
+STXS: Strong sell
+EIX: Strong sell
+MTD: Strong sell
+NOA: Strong sell
+NVEC: Strong sell
+ROMA: Strong sell
+SSYS: Strong sell
+STEC: Strong sell
+TACT: Strong sell
+BCC: Strong sell
+CMRE: Strong sell
+HXL: Strong sell
+JKS: Strong sell
+STLD: Strong sell
+BRID: Strong sell
+LEN: Strong sell
+CERS: Strong sell
+NNBR: Strong sell
+BWA: Strong sell
+PHI: Strong sell
 RKT: Strong sell
-EGAN: Strong sell
-IPG: Strong sell
-NIO: Strong sell
-TFX: Strong sell
-NEOG: Strong sell
-PSCE: Strong sell
-HCC: Strong sell
-KBR: Strong sell
-TK: Strong sell
-FIZZ: Strong sell
-MRTN: Strong sell
-MMS: Strong sell
 RLJ: Strong sell
+ULTA: Strong sell
+CHKR: Strong sell
+FF: Strong sell
+HST: Strong sell
+PEB: Strong sell
+TTC: Strong sell
+FIZZ: Strong sell
+NBIX: Strong sell
+VRTS: Strong sell
+ASX: Strong sell
+CP: Strong sell
+MXL: Strong sell
+FLL: Strong sell
+FOLD: Strong sell
+WYNN: Strong sell
+FCN: Strong sell
+MLM: Strong sell
 SVM: Strong sell
-OLED: Strong sell
+AMWD: Strong sell
+ICFI: Strong sell
+KLAC: Strong sell
+MPWR: Strong sell
+TINY: Strong sell
+MRTN: Strong sell
+ESPR: Strong sell
+FONR: Strong sell
+WEN: Strong sell
+MTRN: Strong sell
+MYRG: Strong sell
+TFX: Strong sell
+OTEX: Strong sell
+MNRO: Strong sell
+FUL: Strong sell
+MGA: Strong sell
+SCCO: Strong sell
+GRVY: Strong sell
+SLB: Strong sell
+FANG: Strong sell
 COP: Strong sell
-CROX: Strong sell
-CRT: Strong sell
-CRL: Strong sell
-MPO: Strong sell
-TX: Strong sell
-NX: Strong sell
+TAYD: Strong sell
+MWG: Strong sell
+NICE: Strong sell
+MPC: Strong sell
+TREX: Strong sell
+BMRN: Strong sell
+DENN: Strong sell
+AMD: Strong sell
+OXY: Strong sell
+MITK: Strong sell
+CRI: Strong sell
+SHEN: Strong sell
+SIG: Strong sell
+INVE: Strong sell
+DVN: Strong sell
+AEO: Strong sell
+AMCX: Strong sell
+TRIP: Strong sell
 AES: Strong sell
-OFLX: Strong sell
-ACLS: Strong sell
+SDRL: Strong sell
+PBYI: Strong sell
+INTC: Strong sell
+RIG: Strong sell
+NDLS: Strong sell
+DK: Strong sell
+ENZ: Strong sell
+INTG: Strong sell
 SQQQ: Strong sell
-PERI: Strong sell
-ACUR: Strong sell
-NLST: Strong sell
-SBNY: Strong sell
-VSTM: Strong sell
-CSTM: Strong sell
+CHNR: Strong sell
+UGP: Strong sell
+MED: Strong sell
 DG: Strong sell
-BPT: Strong sell
-BGT: Strong sell
-EDD: Strong sell
+BOOM: Strong sell
+STRM: Strong sell
+SEED: Strong sell
+TDW: Strong sell
+PXLW: Strong sell
+CE: Strong sell
+SMSI: Strong sell
+BLUE: Strong sell
+CMLS: Strong sell
+CL: Strong sell
 FMO: Strong sell
 GJR: Strong sell
 ISP: Strong sell
-TDI: Strong sell
+KEP: Strong sell
 AMCF: Strong sell
 BGMD: Strong sell
 CACH: Strong sell
@@ -1968,695 +2013,647 @@ QKLS: Strong sell
 RITT: Strong sell
 SVA: Strong sell
 ZAZA: Strong sell
-BKN: Strong sell
-EVF: Strong sell
-IHD: Strong sell
-DRIV: Strong sell
-WOOD: Strong sell
+CWCO: Strong sell
+IGI: Strong sell
+JSM: Strong sell
+CWT: Strong sell
 DAN: Strong sell
-SFD: Strong sell
-HOVNP: Strong sell
-EEA: Strong sell
+CIB: Strong sell
 RATE: Strong sell
-MCN: Strong sell
-TWO: Strong sell
-CITZ: Strong sell
-LUX: Strong sell
-FSM: Strong sell
-GD: Strong sell
-GDO: Strong sell
-NMFC: Strong sell
+SJM: Strong sell
 SJW: Strong sell
-ACI: Strong sell
-EDF: Strong sell
-IHS: Strong sell
-JEQ: Strong sell
-RIO: Strong sell
-X: Strong sell
+CITZ: Strong sell
+ALG: Strong sell
+CHE: Strong sell
+IPG: Strong sell
+SFD: Strong sell
 CHSCP: Strong sell
-NTES: Strong sell
-ACP: Strong sell
+NXST: Strong sell
+TRS: Strong sell
+WRLD: Strong sell
 AZN: Strong sell
 NEU: Strong sell
-PMT: Strong sell
-TU: Strong sell
-CHE: Strong sell
+BUR: Strong sell
 GF: Strong sell
-MNST: Strong sell
-HES: Strong sell
-IVR: Strong sell
-CSWC: Strong sell
-OMAB: Strong sell
-ORMP: Strong sell
-EVTC: Strong sell
-PEP: Strong sell
-FCFS: Strong sell
+ING: Strong sell
+NMFC: Strong sell
+PMT: Strong sell
+MEMS: Strong sell
+ACP: Strong sell
+CPA: Strong sell
+EDF: Strong sell
+GD: Strong sell
+PRA: Strong sell
+RIO: Strong sell
+SIGI: Strong sell
 YORW: Strong sell
-DHT: Strong sell
-RYN: Strong sell
 CCU: Strong sell
 GFI: Strong sell
-HRL: Strong sell
-MPW: Strong sell
-EVER: Strong sell
+IVR: Strong sell
 BIS: Strong sell
-HTHT: Strong sell
-E: Strong sell
-ASTE: Strong sell
+EVTC: Strong sell
+MPW: Strong sell
+RYN: Strong sell
+THR: Strong sell
+X: Strong sell
+CACC: Strong sell
+FCFS: Strong sell
+NYMT: Strong sell
+OMAB: Strong sell
+FSM: Strong sell
+INVN: Strong sell
+SJT: Strong sell
 MDLZ: Strong sell
+OILT: Strong sell
+DHT: Strong sell
 PT: Strong sell
-WVVI: Strong sell
-GEL: Strong sell
-ITUB: Strong sell
 OTTR: Strong sell
-FET: Strong sell
-ELP: Strong sell
-CI: Strong sell
-HSY: Strong sell
+SANW: Strong sell
+DPZ: Strong sell
+E: Strong sell
 ATLO: Strong sell
-ANIP: Strong sell
-BUD: Strong sell
+EVER: Strong sell
+BIDU: Strong sell
+ARI: Strong sell
+ELP: Strong sell
+ITUB: Strong sell
+CI: Strong sell
 GGT: Strong sell
-PRGO: Strong sell
+ANIP: Strong sell
+TAIT: Strong sell
+FET: Strong sell
 PUK: Strong sell
-KOF: Strong sell
-IVAC: Strong sell
-GSK: Strong sell
+AG: Strong sell
+CVS: Strong sell
 OFS: Strong sell
-BP: Strong sell
+MOS: Strong sell
+GSK: Strong sell
+RGR: Strong sell
 SQM: Strong sell
-GRPN: Strong sell
-BTF: Strong sell
-HXL: Strong sell
-MRIN: Strong sell
-VAC: Strong sell
-CAMT: Strong sell
-SSYS: Strong sell
-WRLD: Strong sell
-ASX: Strong sell
-MLM: Strong sell
-SRPT: Strong sell
-DAR: Strong sell
-DHR: Strong sell
-ORN: Strong sell
-PEB: Strong sell
-FOLD: Strong sell
-HMNY: Strong sell
-PRAA: Strong sell
-VIDE: Strong sell
-SNPS: Strong sell
-BUR: Strong sell
-MYRG: Strong sell
+KF: Strong sell
+EBR: Strong sell
+BZ: Strong sell
+SSBI: Strong sell
+QBAK: Strong sell
+RGC: Strong sell
+ADBE: Strong sell
+PBT: Strong sell
 RGEN: Strong sell
+VAC: Strong sell
+EML: Strong sell
+NSTG: Strong sell
+ARW: Strong sell
 ASGN: Strong sell
 GIS: Strong sell
-HAIN: Strong sell
-MNRO: Strong sell
-ROMA: Strong sell
-UTMD: Strong sell
-WYNN: Strong sell
-ALG: Strong sell
-GROW: Strong sell
-RDI: Strong sell
-SA: Strong sell
 ARTW: Strong sell
-BRID: Strong sell
-CACC: Strong sell
-GEOS: Strong sell
-IOSP: Strong sell
-SIGI: Strong sell
-AIN: Strong sell
-MSM: Strong sell
-THR: Strong sell
-TKR: Strong sell
-CGNX: Strong sell
-LEDS: Strong sell
-NDSN: Strong sell
-ACRE: Strong sell
-IGT: Strong sell
-MSA: Strong sell
-MTDR: Strong sell
-PBR: Strong sell
-III: Strong sell
-IMKTA: Strong sell
-MKSI: Strong sell
-FUL: Strong sell
-PPG: Strong sell
-TGT: Strong sell
-TRNS: Strong sell
-WEN: Strong sell
-CAG: Strong sell
 DQ: Strong sell
-ACTG: Strong sell
-CPHC: Strong sell
-AVY: Strong sell
-BHP: Strong sell
-STR: Strong sell
-AWRE: Strong sell
+KNOP: Strong sell
+HAIN: Strong sell
+WDC: Strong sell
+AIN: Strong sell
 CENT: Strong sell
-CGEN: Strong sell
-LAND: Strong sell
-LECO: Strong sell
-POWI: Strong sell
-OSK: Strong sell
-PCM: Strong sell
-SCCO: Strong sell
-HIHO: Strong sell
-NSIT: Strong sell
-CHKR: Strong sell
-FLO: Strong sell
-ARKR: Strong sell
-FONR: Strong sell
-EQS: Strong sell
-HE: Strong sell
-RES: Strong sell
-SON: Strong sell
-TXT: Strong sell
-USPH: Strong sell
-ANGI: Strong sell
-ARTNA: Strong sell
-CENTA: Strong sell
-CMCO: Strong sell
-MVIS: Strong sell
-OTEX: Strong sell
-IDXX: Strong sell
-DEO: Strong sell
-FMC: Strong sell
-HAE: Strong sell
-PVH: Strong sell
-ROG: Strong sell
-UPS: Strong sell
-CAR: Strong sell
-DIOD: Strong sell
-EDUC: Strong sell
-PDFS: Strong sell
-TAIT: Strong sell
-AGCO: Strong sell
-MGA: Strong sell
-FLWS: Strong sell
-FTEK: Strong sell
-KFRC: Strong sell
-SANW: Strong sell
-STLY: Strong sell
-MGM: Strong sell
-MPX: Strong sell
-TCI: Strong sell
-GASS: Strong sell
-ONCY: Strong sell
-ROCK: Strong sell
-KRO: Strong sell
-MTN: Strong sell
-MX: Strong sell
-SM: Strong sell
-FANG: Strong sell
-STEC: Strong sell
-SWKS: Strong sell
-ARE: Strong sell
-MOS: Strong sell
-NGL: Strong sell
-CSTE: Strong sell
-GOGO: Strong sell
-IIIN: Strong sell
-SYNA: Strong sell
-TAYD: Strong sell
-TCPC: Strong sell
-AMAT: Strong sell
-CLWT: Strong sell
-CSGP: Strong sell
-FORM: Strong sell
-ICLN: Strong sell
-IPGP: Strong sell
-AG: Strong sell
-CNQ: Strong sell
-HY: Strong sell
-RPT: Strong sell
-CNI: Strong sell
-ALTI: Strong sell
-FALC: Strong sell
-FORR: Strong sell
-HLX: Strong sell
-MNR: Strong sell
-SD: Strong sell
-UCTT: Strong sell
-AOS: Strong sell
-ASR: Strong sell
-BEN: Strong sell
-DWSN: Strong sell
-JBSS: Strong sell
-MEIP: Strong sell
-ADM: Strong sell
-CNC: Strong sell
-HP: Strong sell
-MOH: Strong sell
-AIRT: Strong sell
-FCX: Strong sell
-KF: Strong sell
-ALV: Strong sell
-AXL: Strong sell
-TEX: Strong sell
-TLK: Strong sell
-NATR: Strong sell
-PSEC: Strong sell
-SLB: Strong sell
-ARWR: Strong sell
-HSON: Strong sell
-HOG: Strong sell
-MWG: Strong sell
-ANDE: Strong sell
-VRNT: Strong sell
-BSBR: Strong sell
-NOV: Strong sell
-PSX: Strong sell
-CDW: Strong sell
-GNTX: Strong sell
-HRZN: Strong sell
-LBTYA: Strong sell
-QCCO: Strong sell
-MAN: Strong sell
-NBR: Strong sell
-UMC: Strong sell
-KALU: Strong sell
-LKQ: Strong sell
-LRCX: Strong sell
-LSCC: Strong sell
-F: Strong sell
-GPC: Strong sell
-M: Strong sell
-STZ: Strong sell
-AMBC: Strong sell
-KIRK: Strong sell
-MU: Strong sell
-EBR: Strong sell
-HMC: Strong sell
-HUM: Strong sell
-HOFT: Strong sell
-LYB: Strong sell
-MPC: Strong sell
-NTZ: Strong sell
-SCL: Strong sell
-LBTYB: Strong sell
-NICE: Strong sell
-AMX: Strong sell
-SFL: Strong sell
-ST: Strong sell
-TREX: Strong sell
-VALE: Strong sell
-VC: Strong sell
-DRRX: Strong sell
-PLL: Strong sell
-DENN: Strong sell
-INFA: Strong sell
-MUX: Strong sell
-DXLG: Strong sell
-PZZA: Strong sell
-REGN: Strong sell
-KWR: Strong sell
-CYTK: Strong sell
-NKTR: Strong sell
-RRGB: Strong sell
-SHIP: Strong sell
-AMD: Strong sell
-BKD: Strong sell
-FOR: Strong sell
-NSP: Strong sell
-ALB: Strong sell
-HHS: Strong sell
-HVT: Strong sell
-TNC: Strong sell
-BG: Strong sell
-OXY: Strong sell
-AAME: Strong sell
-BMRN: Strong sell
-PACB: Strong sell
-ULBI: Strong sell
-BCE: Strong sell
-GHI: Strong sell
-MXF: Strong sell
-ASTC: Strong sell
-MITK: Strong sell
-NSSC: Strong sell
-NSYS: Strong sell
-HUN: Strong sell
-MRK: Strong sell
-MVO: Strong sell
-CRMT: Strong sell
-NEWP: Strong sell
-SIGA: Strong sell
-THRM: Strong sell
-CVE: Strong sell
-DV: Strong sell
-USNA: Strong sell
-CRI: Strong sell
-TWI: Strong sell
-GSM: Strong sell
-NUE: Strong sell
-ASML: Strong sell
-CVV: Strong sell
-SIRI: Strong sell
-MOV: Strong sell
-OXM: Strong sell
-PCRX: Strong sell
-HAL: Strong sell
-ALOT: Strong sell
-BVN: Strong sell
-DOW: Strong sell
-IART: Strong sell
-PATH: Strong sell
-SHEN: Strong sell
-SSBI: Strong sell
-AEO: Strong sell
-CATO: Strong sell
-EC: Strong sell
-PTEN: Strong sell
-FMX: Strong sell
-LEA: Strong sell
-RGC: Strong sell
-GT: Strong sell
-BTE: Strong sell
-INTT: Strong sell
-EGY: Strong sell
-HII: Strong sell
-DVN: Strong sell
-SB: Strong sell
-ATNI: Strong sell
-APA: Strong sell
-BRKR: Strong sell
-JACK: Strong sell
-SOHO: Strong sell
-OSUR: Strong sell
-GNK: Strong sell
-HLF: Strong sell
-BIIB: Strong sell
-NAT: Strong sell
-SSTK: Strong sell
-DIN: Strong sell
-PLUG: Strong sell
-FRO: Strong sell
-LINE: Strong sell
-RELV: Strong sell
-HTZ: Strong sell
-ANIK: Strong sell
-TEN: Strong sell
-IMOS: Strong sell
-VECO: Strong sell
-SLP: Strong sell
-TNK: Strong sell
-OPEN: Strong sell
-BGS: Strong sell
-CDTI: Strong sell
-INVE: Strong sell
-NAII: Strong sell
-GTN: Strong sell
-HI: Strong sell
-TLYS: Strong sell
-ATOS: Strong sell
-RMCF: Strong sell
-MUR: Strong sell
-EDU: Strong sell
-KOP: Strong sell
-CSIQ: Strong sell
-GLBS: Strong sell
-SBLK: Strong sell
-PKX: Strong sell
-STNG: Strong sell
-TBI: Strong sell
-ENZ: Strong sell
-NE: Strong sell
-SSL: Strong sell
-TV: Strong sell
-PRTA: Strong sell
-ICLR: Strong sell
-MTR: Strong sell
-PII: Strong sell
-TRIP: Strong sell
-DSX: Strong sell
-XRAY: Strong sell
-FOXF: Strong sell
-AHT: Strong sell
-RIG: Strong sell
-EVOL: Strong sell
-HAUP: Strong sell
-BWEN: Strong sell
-KELYA: Strong sell
-ASC: Strong sell
-SYT: Strong sell
-NDLS: Strong sell
-SUP: Strong sell
-CREG: Strong sell
-COTY: Strong sell
-SPRO: Strong sell
-DK: Strong sell
-SCHL: Strong sell
-MYE: Strong sell
-OLN: Strong sell
-INTC: Strong sell
-VAL: Strong sell
-CVI: Strong sell
-GALT: Strong sell
-SSP: Strong sell
-CLW: Strong sell
-SID: Strong sell
-HELE: Strong sell
-STM: Strong sell
-ENPH: Strong sell
-CHNR: Strong sell
-HDSN: Strong sell
-UGP: Strong sell
-DLHC: Strong sell
-RGLS: Strong sell
-CJJD: Strong sell
-MHLD: Strong sell
-BBGI: Strong sell
-CLF: Strong sell
-GAME: Strong sell
-KNDI: Strong sell
-VRA: Strong sell
-VSAT: Strong sell
-NUS: Strong sell
-LCUT: Strong sell
-CYCCP: Strong sell
-MED: Strong sell
-ACHC: Strong sell
-IRIX: Strong sell
-NINE: Strong sell
-JBI: Strong sell
-SIFY: Strong sell
-NWBO: Strong sell
-BRY: Strong sell
-BMR: Strong sell
-EL: Strong sell
-TROX: Strong sell
-KSS: Strong sell
-SEED: Strong sell
-KOS: Strong sell
-XRX: Strong sell
-BOOM: Strong sell
-STRM: Strong sell
-STAA: Strong sell
-TOPS: Strong sell
-BLDP: Strong sell
-TC: Strong sell
-ARRY: Strong sell
-TTEC: Strong sell
-GES: Strong sell
-MGPI: Strong sell
-BEBE: Strong sell
-PBF: Strong sell
-GURE: Strong sell
-PNBK: Strong sell
-RDIB: Strong sell
-NCI: Strong sell
-AVD: Strong sell
-RENT: Strong sell
-MARK: Strong sell
-ASPS: Strong sell
-BLMN: Strong sell
-ODP: Strong sell
-SCOR: Strong sell
-ELON: Strong sell
-TRIB: Strong sell
-CTHR: Strong sell
-CE: Strong sell
-SMCI: Strong sell
-CCG: Strong sell
-PXLW: Strong sell
-SMSI: Strong sell
-LRE: Strong sell
-DM: Strong sell
-SURG: Strong sell
-SGMA: Strong sell
-MFI: Strong sell
-EDAP: Strong sell
-XRTX: Strong sell
-SRI: Strong sell
-HBIO: Strong sell
-LIVE: Strong sell
-CVGI: Strong sell
-LUNA: Strong sell
-SVVC: Strong sell
-LXRX: Strong sell
-IRWD: Strong sell
-NVDQ: Strong sell
-LITB: Strong sell
-DYNT: Strong sell
-IPDN: Strong sell
-PTIX: Strong sell
-CRIS: Strong sell
-GRO: Strong sell
-BLUE: Strong sell
-BIOA: Strong sell
-AGEN: Strong sell
-CYCC: Strong sell
-HALL: Strong sell
-ASTI: Strong sell
-OMEX: Strong sell
-ICON: Strong sell
-PRPH: Strong sell
-STI: Strong sell
-MGAM: Strong sell
-AWH: Strong sell
-DGLY: Strong sell
-INVN: Strong sell
-ICCC: Strong sell
-CUBA: Strong sell
-CPA: Strong sell
-GUT: Strong sell
-ING: Strong sell
-MT: Strong sell
-TAL: Strong sell
-NYMT: Strong sell
-CCUR: Strong sell
-ATRO: Strong sell
-ARI: Strong sell
-ESMC: Strong sell
-CP: Strong sell
+STRS: Strong sell
+UTMD: Strong sell
 VNDA: Strong sell
-GSL: Strong sell
-PDS: Strong sell
+DHR: Strong sell
+FSLR: Strong sell
+FL: Strong sell
+HCC: Strong sell
+KBR: Strong sell
+ASTE: Strong sell
+IOSP: Strong sell
+NEOG: Strong sell
+PRAA: Strong sell
+SNPS: Strong sell
+MMS: Strong sell
+MSM: Strong sell
+PPG: Strong sell
+CPHC: Strong sell
+OLED: Strong sell
 QLYS: Strong sell
-FF: Strong sell
-OILT: Strong sell
-MTRN: Strong sell
+BTU: Strong sell
+PEP: Strong sell
+TKR: Strong sell
+USPH: Strong sell
+CENTA: Strong sell
+GROW: Strong sell
+IMKTA: Strong sell
+NDSN: Strong sell
+RDI: Strong sell
+BTF: Strong sell
+GSL: Strong sell
+MSA: Strong sell
 DAIO: Strong sell
-QCOM: Strong sell
-STRA: Strong sell
-DPZ: Strong sell
-IFN: Strong sell
-ATAI: Strong sell
+LECO: Strong sell
+PSCE: Strong sell
+SCVL: Strong sell
+CAG: Strong sell
 REXR: Strong sell
-AUDC: Strong sell
-TDC: Strong sell
+ARTNA: Strong sell
+CAMT: Strong sell
+HIHO: Strong sell
+POWI: Strong sell
+BHP: Strong sell
+OSK: Strong sell
+ATAI: Strong sell
+GERN: Strong sell
+AVY: Strong sell
+EQS: Strong sell
+IGT: Strong sell
+MRIN: Strong sell
+TK: Strong sell
+QCOM: Strong sell
+ROCK: Strong sell
+FLO: Strong sell
+MTDR: Strong sell
+ORN: Strong sell
 CRWS: Strong sell
+LAND: Strong sell
+ACRE: Strong sell
+AGCO: Strong sell
+DEO: Strong sell
+PCM: Strong sell
+SA: Strong sell
+UPS: Strong sell
+CGNX: Strong sell
+IFN: Strong sell
+STR: Strong sell
+TXT: Strong sell
+ARKR: Strong sell
+IDXX: Strong sell
 NXPI: Strong sell
+PLAB: Strong sell
+STRA: Strong sell
+MPX: Strong sell
+MTN: Strong sell
+RES: Strong sell
+ALTI: Strong sell
+CLWT: Strong sell
+KFRC: Strong sell
 SPNS: Strong sell
 GGB: Strong sell
-JOE: Strong sell
-PLAB: Strong sell
-GRVY: Strong sell
-MOVE: Strong sell
-WHF: Strong sell
-CCM: Strong sell
-LPL: Strong sell
 NKE: Strong sell
-EFUT: Strong sell
+SON: Strong sell
+NSIT: Strong sell
+HAE: Strong sell
+NGL: Strong sell
+TDC: Strong sell
+MKSI: Strong sell
+NATR: Strong sell
 RYAAY: Strong sell
-REX: Strong sell
-JOUT: Strong sell
+TRNS: Strong sell
+ARE: Strong sell
+JOE: Strong sell
+MOH: Strong sell
+TLK: Strong sell
+FALC: Strong sell
+MOVE: Strong sell
+TCPC: Strong sell
+MX: Strong sell
+PVH: Strong sell
+AWRE: Strong sell
+IIIN: Strong sell
+MVIS: Strong sell
+PDFS: Strong sell
+WHF: Strong sell
+FMC: Strong sell
+RPT: Strong sell
+GASS: Strong sell
 PMD: Strong sell
-OI: Strong sell
-KFFB: Strong sell
-RCI: Strong sell
-LBTYK: Strong sell
-NTIC: Strong sell
-ATEC: Strong sell
-COHU: Strong sell
-THRD: Strong sell
-LND: Strong sell
-EW: Strong sell
-ORBT: Strong sell
-SIG: Strong sell
-TM: Strong sell
-AMKR: Strong sell
+MGM: Strong sell
+ROG: Strong sell
+SD: Strong sell
+DIOD: Strong sell
+SYNA: Strong sell
+CNI: Strong sell
+ICLN: Strong sell
+LKQ: Strong sell
+MEIP: Strong sell
+SWKS: Strong sell
+BEN: Strong sell
+LPL: Strong sell
 PRTS: Strong sell
-MXE: Strong sell
-DYSL: Strong sell
-ENTG: Strong sell
+CNC: Strong sell
+STLY: Strong sell
+ADM: Strong sell
+AOS: Strong sell
+CNQ: Strong sell
+OI: Strong sell
+AMAT: Strong sell
+GOGO: Strong sell
+HOFT: Strong sell
+IPGP: Strong sell
+JBSS: Strong sell
+ALV: Strong sell
+KRO: Strong sell
+ATEC: Strong sell
+JOUT: Strong sell
+LSCC: Strong sell
+HP: Strong sell
+PSX: Strong sell
+KFFB: Strong sell
+PSEC: Strong sell
+M: Strong sell
+MNR: Strong sell
+SM: Strong sell
+FORR: Strong sell
+ONCY: Strong sell
+PACB: Strong sell
+GPC: Strong sell
+NTZ: Strong sell
+AAME: Strong sell
+ANDE: Strong sell
+BSBR: Strong sell
+HY: Strong sell
+MAN: Strong sell
+RCI: Strong sell
+ARWR: Strong sell
+CMCO: Strong sell
+DWSN: Strong sell
+GNTX: Strong sell
+KALU: Strong sell
+LRCX: Strong sell
+HMC: Strong sell
+HOG: Strong sell
+REX: Strong sell
+TEX: Strong sell
+CDW: Strong sell
+HRZN: Strong sell
+PZZA: Strong sell
+EW: Strong sell
+FCX: Strong sell
+NOV: Strong sell
+TM: Strong sell
+UMC: Strong sell
+FORM: Strong sell
+KIRK: Strong sell
+UCTT: Strong sell
+HLX: Strong sell
+CSTE: Strong sell
+ORBT: Strong sell
+VRNT: Strong sell
+AXL: Strong sell
+F: Strong sell
+LYB: Strong sell
+MU: Strong sell
 MTW: Strong sell
-RCKY: Strong sell
-SMIT: Strong sell
-DYN: Strong sell
-ALGN: Strong sell
-ASH: Strong sell
-LION: Strong sell
-TWIN: Strong sell
+MXE: Strong sell
+VC: Strong sell
+HUM: Strong sell
+NSP: Strong sell
+VALE: Strong sell
+CRT: Strong sell
+LND: Strong sell
+SCL: Strong sell
+TNC: Strong sell
+LBTYK: Strong sell
+DV: Strong sell
+KWR: Strong sell
+ENTG: Strong sell
+LBTYA: Strong sell
+HVT: Strong sell
+SFL: Strong sell
+ST: Strong sell
+AMBC: Strong sell
+CYTK: Strong sell
+GHI: Strong sell
+MXF: Strong sell
+TWI: Strong sell
+COHU: Strong sell
+CROX: Strong sell
+INFA: Strong sell
+NUE: Strong sell
+CRL: Strong sell
+MUX: Strong sell
+DRRX: Strong sell
+DXLG: Strong sell
+PCRX: Strong sell
+REGN: Strong sell
+ALB: Strong sell
+BCE: Strong sell
+FOR: Strong sell
+HUN: Strong sell
+IART: Strong sell
 CX: Strong sell
-EMMS: Strong sell
-NVO: Strong sell
-TITN: Strong sell
+HHS: Strong sell
+LION: Strong sell
+PATH: Strong sell
+BG: Strong sell
+MRK: Strong sell
+ALGN: Strong sell
+SIRI: Strong sell
+TX: Strong sell
+CVV: Strong sell
+AMKR: Strong sell
+ASML: Strong sell
+ASTC: Strong sell
+FMX: Strong sell
+ALOT: Strong sell
+EC: Strong sell
+LEA: Strong sell
+MOV: Strong sell
+GSM: Strong sell
+GT: Strong sell
+INTT: Strong sell
+HAL: Strong sell
+MVO: Strong sell
+NSYS: Strong sell
+SIGA: Strong sell
+CVE: Strong sell
 PRO: Strong sell
+ATNI: Strong sell
+PTEN: Strong sell
+RCKY: Strong sell
+ASH: Strong sell
+DOW: Strong sell
+HII: Strong sell
+JACK: Strong sell
+NEWP: Strong sell
+TITN: Strong sell
+BRKR: Strong sell
+NX: Strong sell
+OXM: Strong sell
 RGP: Strong sell
-TORM: Strong sell
-AMCX: Strong sell
+SB: Strong sell
 LEG: Strong sell
+ULBI: Strong sell
+CATO: Strong sell
+HLF: Strong sell
+NVO: Strong sell
+APA: Strong sell
+SOHO: Strong sell
+DIN: Strong sell
 SIMO: Strong sell
-SDRL: Strong sell
-WPRT: Strong sell
-XTLB: Strong sell
-QBAK: Strong sell
+BIIB: Strong sell
+LINE: Strong sell
+TORM: Strong sell
+NAT: Strong sell
+CDTI: Strong sell
+IMOS: Strong sell
 MERC: Strong sell
-MEIL: Strong sell
-TTGT: Strong sell
-MYGN: Strong sell
-NRT: Strong sell
-MCHP: Strong sell
-ALVR: Strong sell
-NAUH: Strong sell
-AMTD: Strong sell
+BGS: Strong sell
+WPRT: Strong sell
+FRO: Strong sell
+GTN: Strong sell
+KOP: Strong sell
+PKX: Strong sell
+EDU: Strong sell
+HI: Strong sell
+ANIK: Strong sell
+OPEN: Strong sell
+SYT: Strong sell
+GLBS: Strong sell
+TEN: Strong sell
+CSIQ: Strong sell
 FARM: Strong sell
-PBYI: Strong sell
-KELYB: Strong sell
-CLDX: Strong sell
-INTG: Strong sell
+MUR: Strong sell
+SBLK: Strong sell
+DYN: Strong sell
+TLYS: Strong sell
 FIVE: Strong sell
+PRTA: Strong sell
+NRT: Strong sell
+TNK: Strong sell
+MCHP: Strong sell
+OFLX: Strong sell
+VECO: Strong sell
+AHT: Strong sell
+NAII: Strong sell
+AMTD: Strong sell
+ALVR: Strong sell
+TTGT: Strong sell
+DSX: Strong sell
+ICLR: Strong sell
+NAUH: Strong sell
+XRAY: Strong sell
+NE: Strong sell
+SSL: Strong sell
+STNG: Strong sell
+ATOS: Strong sell
+CREG: Strong sell
+PII: Strong sell
+FOXF: Strong sell
+KELYB: Strong sell
+THRD: Strong sell
+SSP: Strong sell
+MYE: Strong sell
 DXCM: Strong sell
+KELYA: Strong sell
+MYGN: Strong sell
+CVI: Strong sell
+XTLB: Strong sell
+COTY: Strong sell
+SPRO: Strong sell
+SUP: Strong sell
+HELE: Strong sell
+NLST: Strong sell
+SCHL: Strong sell
+CYCCP: Strong sell
+HAUP: Strong sell
+HDSN: Strong sell
+STM: Strong sell
+BWEN: Strong sell
+ASC: Strong sell
 AMRN: Strong sell
-SMRT: Strong sell
+VAL: Strong sell
+OLN: Strong sell
 IEP: Strong sell
 ZEUS: Strong sell
 AVNW: Strong sell
-DLTR: Strong sell
-HPP: Strong sell
-QUIK: Strong sell
-ACET: Strong sell
+ACLS: Strong sell
+SIFY: Strong sell
+CLW: Strong sell
 CLRO: Strong sell
-AXTI: Strong sell
-TDW: Strong sell
+DLTR: Strong sell
+ENPH: Strong sell
+KNDI: Strong sell
+QUIK: Strong sell
+DLHC: Strong sell
+GAME: Strong sell
+HPP: Strong sell
+NUS: Strong sell
+SBNY: Strong sell
+LCUT: Strong sell
+BMR: Strong sell
+JBI: Strong sell
+NWBO: Strong sell
+EL: Strong sell
+ACHC: Strong sell
+BRY: Strong sell
+ACET: Strong sell
+CSTM: Strong sell
+IRIX: Strong sell
+TTEC: Strong sell
+VRA: Strong sell
 OMI: Strong sell
-ENTA: Strong sell
+TROX: Strong sell
+XRX: Strong sell
+KOS: Strong sell
+PNBK: Strong sell
+TOPS: Strong sell
+KSS: Strong sell
+GES: Strong sell
+BLDP: Strong sell
 CAMP: Strong sell
+ENTA: Strong sell
+RDIB: Strong sell
+STAA: Strong sell
+ARRY: Strong sell
+PBF: Strong sell
 BOLT: Strong sell
+MARK: Strong sell
+TC: Strong sell
+GURE: Strong sell
+AVD: Strong sell
+NCI: Strong sell
+SCOR: Strong sell
+MGPI: Strong sell
 CNET: Strong sell
-CHEV: Strong sell
-MEG: Strong sell
+ASPS: Strong sell
+CTHR: Strong sell
+SMCI: Strong sell
 RDHL: Strong sell
+RENT: Strong sell
+ODP: Strong sell
+TRIB: Strong sell
+ELON: Strong sell
+MEG: Strong sell
 BGFV: Strong sell
+LRE: Strong sell
+SURG: Strong sell
+XRTX: Strong sell
+DM: Strong sell
+SGMA: Strong sell
 GPRE: Strong sell
-GENE: Strong sell
+MFI: Strong sell
+EDAP: Strong sell
+MGAM: Strong sell
+SRI: Strong sell
+LIVE: Strong sell
+LUNA: Strong sell
+HBIO: Strong sell
+CVGI: Strong sell
+DYNT: Strong sell
 STEM: Strong sell
-FCEL: Strong sell
-GSOL: Strong sell
-DDC: Strong sell
-CMLS: Strong sell
+NVDQ: Strong sell
+IPDN: Strong sell
+LITB: Strong sell
+GRO: Strong sell
+PTIX: Strong sell
+BPT: Strong sell
+CRIS: Strong sell
+BIOA: Strong sell
 GRAM: Strong sell
+DDC: Strong sell
+CYCC: Strong sell
+BLRX: Strong sell
+ASTI: Strong sell
+OMEX: Strong sell
+STI: Strong sell
+CAFI: Strong sell
+PRPH: Strong sell
+ICON: Strong sell
+TNXP: Strong sell
+AWH: Strong sell
+NGG: Strong sell
+CCUR: Strong sell
+CSGP: Strong sell
+IVAC: Strong sell
+AUDC: Strong sell
+CGEN: Strong sell
+VIDE: Strong sell
+EGAN: Strong sell
+SGC: Strong sell
+DAR: Strong sell
+DELL: Strong sell
+GEOS: Strong sell
+TCI: Strong sell
+HE: Strong sell
+TGT: Strong sell
+ACTG: Strong sell
+FTEK: Strong sell
+HSY: Strong sell
+ANGI: Strong sell
+PDS: Strong sell
+FLWS: Strong sell
+EFUT: Strong sell
+ESMC: Strong sell
+HMNY: Strong sell
+EDUC: Strong sell
+ASR: Strong sell
+AIRT: Strong sell
+SMIT: Strong sell
+CAR: Strong sell
+QCCO: Strong sell
+AMX: Strong sell
+STZ: Strong sell
+NTIC: Strong sell
+CCM: Strong sell
+DYSL: Strong sell
+HSON: Strong sell
+RRGB: Strong sell
+LBTYB: Strong sell
+BKD: Strong sell
+NBR: Strong sell
+USNA: Strong sell
+SHIP: Strong sell
+PLL: Strong sell
+CRMT: Strong sell
+THRM: Strong sell
+MPO: Strong sell
+OSUR: Strong sell
+HTZ: Strong sell
+NKTR: Strong sell
+NSSC: Strong sell
+TWIN: Strong sell
+PLUG: Strong sell
+GNK: Strong sell
+EMMS: Strong sell
+BTE: Strong sell
+EGY: Strong sell
+SSTK: Strong sell
+RELV: Strong sell
+RMCF: Strong sell
+SLP: Strong sell
+MTR: Strong sell
+PERI: Strong sell
+TBI: Strong sell
+TV: Strong sell
+MEIL: Strong sell
+VSTM: Strong sell
+ACUR: Strong sell
+CLDX: Strong sell
+EVOL: Strong sell
+SID: Strong sell
+SMRT: Strong sell
+RGLS: Strong sell
+CLF: Strong sell
+GALT: Strong sell
+NINE: Strong sell
+VSAT: Strong sell
+BBGI: Strong sell
+CJJD: Strong sell
+AXTI: Strong sell
+MHLD: Strong sell
+CHEV: Strong sell
+CCG: Strong sell
+BEBE: Strong sell
+BLMN: Strong sell
+GENE: Strong sell
+SVVC: Strong sell
+LXRX: Strong sell
+IRWD: Strong sell
+FCEL: Strong sell
+GTI: Strong sell
+GSOL: Strong sell
+AGEN: Strong sell
 TWER: Strong sell
 ENG: Strong sell
-BLRX: Strong sell
+HALL: Strong sell
+DGLY: Strong sell
 CUTR: Strong sell
-CAFI: Strong sell
-TNXP: Strong sell
-GTI: Strong sell
-CPWR: Strong sell
 SOFO: Strong sell
+CPWR: Strong sell
 SUNE: Strong sell
 CYN: Strong sell
 WHLR: Strong sell

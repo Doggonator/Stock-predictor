@@ -27,7 +27,7 @@ top_10 = ""
 for item in top_10_lines:
     top_10 += item
     top_10 += ", \n"
-st.write("Top suggestions, starting with the most suggested:")
+st.write("Top suggestions, starting with the most suggested (Date is m-d-y):")
 st.write(top_10)
 st.write("Input a ticker (i.e. AAPL, in that format) to search the database. If the ticker is in the database, the suggestion will be shown below. If not, a stock with a close ticker will be shown")
 search = st.text_input("Input ticker here")

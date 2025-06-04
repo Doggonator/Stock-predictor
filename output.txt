@@ -28,7 +28,6 @@ AIZ: Strong Buy
 NRP: Strong Buy
 MGYR: Strong Buy
 MA: Strong Buy
-BIOF: Strong Buy
 RPRX: Strong Buy
 STRT: Strong Buy
 GFI: Strong Buy
@@ -44,9 +43,9 @@ OMAB: Strong Buy
 ABBV: Strong Buy
 LFVN: Strong Buy
 WLFC: Strong Buy
+SALM: Strong Buy
 TZOO: Strong Buy
 INOD: Strong Buy
-SALM: Strong Buy
 UAL: Strong Buy
 MTEX: Strong Buy
 FICO: Strong Buy
@@ -297,7 +296,6 @@ LINC: Buy
 MMSI: Buy
 VLGEA: Buy
 AUBN: Buy
-BKSC: Buy
 BSET: Buy
 INDB: Buy
 MMYT: Buy
@@ -340,7 +338,6 @@ NWN: Buy
 RSG: Buy
 CTBI: Buy
 FAST: Buy
-MCBI: Buy
 QCCO: Buy
 SEIC: Buy
 AXP: Buy
@@ -374,6 +371,7 @@ SMA: Buy
 ARMH: Buy
 BOTJ: Buy
 CBOE: Buy
+CBSH: Buy
 CZNC: Buy
 ESCA: Buy
 EUFN: Buy
@@ -408,6 +406,7 @@ PFX: Buy
 SCHW: Buy
 SPE: Buy
 TDF: Buy
+BIOF: Buy
 CATY: Buy
 CINF: Buy
 MGIC: Buy
@@ -455,6 +454,7 @@ SPG: Buy
 USAC: Buy
 ABCB: Buy
 AMZN: Buy
+CIZN: Buy
 ENTR: Buy
 FORTY: Buy
 MCBK: Buy
@@ -716,7 +716,6 @@ LULU: Buy
 ZION: Buy
 BKU: Buy
 UNF: Buy
-CIZN: Buy
 JLL: Buy
 LEE: Buy
 PFS: Buy
@@ -783,12 +782,14 @@ MT: Hold
 CCBG: Hold
 FRME: Hold
 AMP: Hold
+BKSC: Hold
 EPD: Hold
 HBCP: Hold
 AGO: Hold
 MCD: Hold
 PHX: Hold
 HOMB: Hold
+MCBI: Hold
 ACNB: Hold
 CHTR: Hold
 NURO: Hold
@@ -848,6 +849,7 @@ POST: Hold
 SAR: Hold
 UVV: Hold
 AWAY: Hold
+CFNB: Hold
 CHRW: Hold
 NFBK: Hold
 ACM: Hold
@@ -1012,7 +1014,6 @@ GLRE: Hold
 INCY: Hold
 MARPS: Hold
 MSEX: Hold
-NASB: Hold
 OXLCO: Hold
 TCBK: Hold
 BMI: Hold
@@ -1084,7 +1085,6 @@ KKR: Hold
 FFBC: Hold
 PKBK: Hold
 WASH: Hold
-CFNB: Hold
 EV: Hold
 KEY: Hold
 LAZ: Hold
@@ -1114,7 +1114,6 @@ LSCC: Hold
 CRT: Hold
 EPAM: Hold
 AAPL: Hold
-ROYL: Hold
 EVC: Hold
 NWL: Hold
 ARAY: Hold
@@ -1151,6 +1150,7 @@ MTG: Hold
 KEM: Hold
 NMT: Hold
 TVE: Hold
+NASB: Hold
 NGG: Hold
 RY: Hold
 UBSI: Hold
@@ -1208,6 +1208,7 @@ ALEX: Hold
 NVS: Hold
 SLMBP: Hold
 GME: Sell
+ROYL: Sell
 FSBW: Sell
 IT: Sell
 SWZ: Sell
@@ -1746,7 +1747,6 @@ PEO: Strong sell
 RMT: Strong sell
 CGO: Strong sell
 CHY: Strong sell
-ESMC: Strong sell
 EXPD: Strong sell
 HWAY: Strong sell
 TAX: Strong sell
@@ -1786,6 +1786,7 @@ AAME: Strong sell
 INTU: Strong sell
 MSFT: Strong sell
 NATR: Strong sell
+RCMT: Strong sell
 CCJ: Strong sell
 CP: Strong sell
 DAC: Strong sell
@@ -1841,6 +1842,7 @@ ATI: Strong sell
 CHA: Strong sell
 ADUS: Strong sell
 AMSC: Strong sell
+ESMC: Strong sell
 OTEX: Strong sell
 FN: Strong sell
 FTEK: Strong sell
@@ -2144,6 +2146,7 @@ RKT: Strong sell
 TPH: Strong sell
 CHNR: Strong sell
 DELL: Strong sell
+DXYN: Strong sell
 HOLX: Strong sell
 HTLD: Strong sell
 KALU: Strong sell
@@ -2166,7 +2169,6 @@ DHI: Strong sell
 DHR: Strong sell
 FCN: Strong sell
 FCX: Strong sell
-DXYN: Strong sell
 NTAP: Strong sell
 PLUS: Strong sell
 POWI: Strong sell
@@ -2303,7 +2305,6 @@ SID: Strong sell
 CRL: Strong sell
 LTRX: Strong sell
 MKSI: Strong sell
-NWBO: Strong sell
 TAYD: Strong sell
 AHH: Strong sell
 NCT: Strong sell
@@ -2347,11 +2348,11 @@ BCE: Strong sell
 HP: Strong sell
 ST: Strong sell
 CAMT: Strong sell
-CYAN: Strong sell
 NTIC: Strong sell
 HI: Strong sell
 NX: Strong sell
 ALOT: Strong sell
+CYAN: Strong sell
 APA: Strong sell
 SB: Strong sell
 TER: Strong sell
@@ -2375,7 +2376,6 @@ OXM: Strong sell
 ROG: Strong sell
 CSIQ: Strong sell
 ARWR: Strong sell
-NLST: Strong sell
 SGRP: Strong sell
 BTU: Strong sell
 CRI: Strong sell
@@ -2498,10 +2498,10 @@ OPEN: Strong sell
 NVDQ: Strong sell
 DXLG: Strong sell
 EDAP: Strong sell
+DYNT: Strong sell
 NEOG: Strong sell
 TC: Strong sell
 KSS: Strong sell
-DYNT: Strong sell
 SUP: Strong sell
 IPDN: Strong sell
 PRTA: Strong sell
@@ -2540,7 +2540,6 @@ GRO: Strong sell
 OMEX: Strong sell
 HBIO: Strong sell
 STI: Strong sell
-GSOL: Strong sell
 IRWD: Strong sell
 PRPH: Strong sell
 PTNT: Strong sell
@@ -2615,11 +2614,13 @@ ASML: Strong sell
 CROX: Strong sell
 ORBT: Strong sell
 ASTC: Strong sell
+NWBO: Strong sell
 KTCC: Strong sell
 AXL: Strong sell
 GENE: Strong sell
 KNDI: Strong sell
 TWIN: Strong sell
+NLST: Strong sell
 ATOS: Strong sell
 CMTL: Strong sell
 NDLS: Strong sell
@@ -2637,6 +2638,7 @@ ACAT: Strong sell
 GPRE: Strong sell
 GRAM: Strong sell
 TRIB: Strong sell
+GSOL: Strong sell
 ENG: Strong sell
 TWER: Strong sell
 AWH: Strong sell
